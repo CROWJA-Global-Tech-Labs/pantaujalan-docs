@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Kebijakan Privasi · PantauJalan</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; padding: 48px 24px; background: #05080F; color: #E0E6ED;
+         font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+         line-height: 1.65; }
+  main { max-width: 720px; margin: 0 auto; }
+  h1 { color: #00FF88; font-size: 2rem; margin-bottom: 8px; }
+  .tagline { color: #9CA3AF; font-size: 0.9rem; margin-bottom: 36px; letter-spacing: 0.06em; text-transform: uppercase; }
+  h2 { color: #00D9FF; font-size: 1.15rem; margin-top: 32px; border-bottom: 1px solid #1E2A40; padding-bottom: 6px; }
+  a  { color: #00D9FF; }
+  code { background: #0D1424; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+  ul { padding-left: 20px; }
+  footer { margin-top: 56px; color: #6B7280; font-size: 0.8rem; border-top: 1px solid #1E2A40; padding-top: 20px; }
+  .lang-switch { float: right; font-size: 0.85rem; color: #9CA3AF; }
+  .lang-switch a { margin-left: 8px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="lang-switch"><a href="#id">ID</a> · <a href="#en">EN</a></div>
+  <h1>PantauJalan</h1>
+  <p class="tagline">// Kebijakan Privasi · Privacy Policy</p>
+
+  <section id="id">
+    <h2>Kebijakan Privasi (Bahasa Indonesia)</h2>
+    <p>Terakhir diperbarui: 17 April 2026.</p>
+    <p>
+      PantauJalan (dikembangkan oleh <strong>CROWJA Global Tech Labs</strong>) adalah aplikasi Android
+      yang menampilkan feed CCTV publik yang sudah dipublikasikan secara terbuka oleh
+      Dinas Perhubungan dan instansi pemerintah di Indonesia. Dokumen ini menjelaskan data
+      apa yang ditangani oleh aplikasi.
+    </p>
+
+    <h2>1. Data yang Kami Kumpulkan</h2>
+    <p>
+      <strong>Kami tidak memiliki server backend.</strong> Aplikasi PantauJalan tidak
+      mengumpulkan, menyimpan, atau mengirimkan data pribadi kamu ke server milik kami.
+    </p>
+    <p>Data yang disimpan di perangkat (<code>SharedPreferences</code>):</p>
+    <ul>
+      <li>Feed CCTV yang kamu tambahkan sendiri (URL, nama, tipe).</li>
+      <li>Daftar feed bawaan yang kamu sembunyikan.</li>
+      <li>Cache preview thumbnail CCTV (disk cache, TTL 6 jam).</li>
+      <li>URL stream yang disukai dan daftar kamera per feed (TTL 24 jam).</li>
+    </ul>
+    <p>Menghapus aplikasi akan menghapus semua data di atas.</p>
+
+    <h2>2. Akses Jaringan</h2>
+    <p>
+      Saat kamu membuka sebuah feed, aplikasi melakukan permintaan HTTP/HTTPS <em>langsung</em>
+      ke server portal pemerintah yang bersangkutan (misalnya <code>cctv.jogjakota.go.id</code>,
+      <code>atcs-dishub.bandung.go.id</code>, <code>opencctv.org</code>). Data lalu-lintas mengalir
+      dari server mereka langsung ke perangkatmu. PantauJalan tidak berfungsi sebagai proxy.
+    </p>
+
+    <h2>3. Iklan (AdMob)</h2>
+    <p>
+      Aplikasi menampilkan iklan dari <strong>Google AdMob</strong>. AdMob SDK dapat
+      mengumpulkan Advertising ID, alamat IP, informasi perangkat, dan interaksi iklan
+      sesuai kebijakan Google. Kebijakan privasi AdMob:
+      <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>.
+      Kamu bisa me-reset atau menonaktifkan Advertising ID lewat Setelan Android &rarr; Privasi &rarr; Iklan.
+    </p>
+
+    <h2>4. Izin Android</h2>
+    <ul>
+      <li><strong>INTERNET</strong> — wajib untuk mengakses feed CCTV dan iklan.</li>
+      <li><strong>ACCESS_NETWORK_STATE</strong> — cek koneksi sebelum fetch.</li>
+    </ul>
+    <p>Aplikasi <em>tidak</em> meminta izin lokasi, kamera, mikrofon, kontak, atau penyimpanan.</p>
+
+    <h2>5. Anak-anak</h2>
+    <p>
+      Aplikasi ini ditargetkan untuk pengguna umum (13+). PantauJalan tidak secara sadar
+      mengumpulkan informasi dari anak di bawah 13 tahun.
+    </p>
+
+    <h2>6. Hubungi Kami</h2>
+    <p>
+      Pertanyaan terkait privasi:
+      <a href="mailto:crowja.root@gmail.com">crowja.root@gmail.com</a>.
+    </p>
+  </section>
+
+  <section id="en">
+    <h2>Privacy Policy (English)</h2>
+    <p>Last updated: 17 April 2026.</p>
+    <p>
+      PantauJalan (built by <strong>CROWJA Global Tech Labs</strong>) is an Android app
+      that displays publicly published CCTV feeds from Indonesian transportation agencies.
+      This document explains what data the app handles.
+    </p>
+
+    <h2>1. Data We Collect</h2>
+    <p><strong>We run no backend.</strong> PantauJalan never collects, stores, or transmits
+      your personal data to our own servers.</p>
+    <p>The app keeps the following on your device only (in <code>SharedPreferences</code>):</p>
+    <ul>
+      <li>CCTV feeds you added yourself (URL, name, type).</li>
+      <li>List of bundled feeds you chose to hide.</li>
+      <li>Cached preview thumbnails (disk cache, 6-hour TTL).</li>
+      <li>Resolved stream URLs + camera lists per feed (24-hour TTL).</li>
+    </ul>
+    <p>Uninstalling the app wipes all of the above.</p>
+
+    <h2>2. Network Access</h2>
+    <p>
+      When you open a feed, the app makes HTTP/HTTPS requests <em>directly</em> to the
+      relevant government portal (e.g. <code>cctv.jogjakota.go.id</code>,
+      <code>atcs-dishub.bandung.go.id</code>, <code>opencctv.org</code>). Traffic flows from
+      their servers to your device. PantauJalan is not a proxy.
+    </p>
+
+    <h2>3. Ads (AdMob)</h2>
+    <p>
+      The app displays ads from <strong>Google AdMob</strong>. The AdMob SDK may collect
+      advertising ID, IP address, device info, and ad interactions per Google&rsquo;s
+      policies. AdMob privacy policy:
+      <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>.
+      You can reset or opt out of the Advertising ID via Android Settings &rarr; Privacy &rarr; Ads.
+    </p>
+
+    <h2>4. Android Permissions</h2>
+    <ul>
+      <li><strong>INTERNET</strong> — required to fetch CCTV streams and ads.</li>
+      <li><strong>ACCESS_NETWORK_STATE</strong> — connectivity check before fetches.</li>
+    </ul>
+    <p>The app does <em>not</em> request location, camera, microphone, contacts, or storage permissions.</p>
+
+    <h2>5. Children</h2>
+    <p>
+      PantauJalan targets general audiences (13+). It does not knowingly collect information
+      from children under 13.
+    </p>
+
+    <h2>6. Contact</h2>
+    <p>
+      Privacy questions:
+      <a href="mailto:crowja.root@gmail.com">crowja.root@gmail.com</a>.
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2026 CROWJA Global Tech Labs. PantauJalan is open source:
+    <a href="https://github.com/CROWJA-Global-Tech-Labs/PantauJalan">github.com/CROWJA-Global-Tech-Labs/PantauJalan</a>.
+  </footer>
+</main>
+</body>
+</html>
