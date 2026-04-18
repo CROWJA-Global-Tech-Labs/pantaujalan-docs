@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>PantauJalan · Polling CCTV</title>
+  <style>
+    html, body { margin: 0; padding: 0; background: #000; height: 100%; overflow: hidden;
+                 font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    #wrap { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; }
+    img { max-width: 100%; max-height: 100%; object-fit: contain; background: #000;
+          transition: opacity 0.3s ease; }
+    #info, #err {
+      position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+      color: #E0E6ED; font-size: 13px; text-align: center; padding: 14px 18px;
+      background: rgba(12, 18, 32, 0.92); border: 1px solid #1E2A40; border-radius: 6px;
+      max-width: 84vw;
+    }
+    #info { color: #9CA3AF; }
+    #err  { color: #FF3366; display: none; }
+    h2 { color: #00D9FF; font-size: 13px; margin: 0 0 6px 0; letter-spacing: 0.08em; }
+    .hud { position: fixed; top: 10px; left: 12px; color: #00FF88; font-size: 11px;
+           font-family: monospace; background: rgba(0,0,0,0.5); padding: 3px 6px;
+           border-radius: 3px; letter-spacing: 0.06em; }
+  </style>
+</head>
+<body>
+  <div id="wrap"><img id="frame" alt="" /></div>
+  <div class="hud" id="hud">LIVE · <span id="stamp">—</span></div>
+  <div id="info"><h2>CONNECTING…</h2>Loading first frame</div>
+  <div id="err"><h2>FRAME UNAVAILABLE</h2><span id="errmsg">Could not fetch the JPEG frame.</span></div>
+  <script>
+    // Polling JPEG viewer. PantauJalan uses this for portals that only serve
+    // still-image frames rather than real video streams (Banyuwangi, some
+    // legacy CCTV servers). The app passes `?s=<JPEG_URL>&n=<name>&ms=<interval>`.
+    // Default interval 800ms; a cache-busting `&t=<ms>` query is appended on
+    // each request so the browser image cache can't freeze the frame.
+    (function () {
+      var qs = new URLSearchParams(window.location.search);
+      var baseUrl = qs.get('s');
+      var name = qs.get('n') || 'CCTV';
+      var intervalMs = Math.max(250, parseInt(qs.get('ms') || '800', 10));
+      document.title = 'PantauJalan · ' + name;
+
+      var $info = document.getElementById('info');
+      var $err  = document.getElementById('err');
+      var $msg  = document.getElementById('errmsg');
+      var $img  = document.getElementById('frame');
+      var $stamp = document.getElementById('stamp');
+
+      if (!baseUrl) {
+        $info.style.display = 'none';
+        $msg.textContent = 'Missing ?s=<jpeg-url>';
+        $err.style.display = 'block';
+        return;
+      }
+
+      var consecutiveFails = 0;
+      var MAX_FAILS = 5;
+
+      function nextFrame() {
+        // Append or replace a `t=` cache-buster.
+        var sep = baseUrl.indexOf('?') >= 0 ? '&' : '?';
+        var u = baseUrl + sep + 't=' + Date.now();
+        var probe = new Image();
+        probe.onload = function () {
+          consecutiveFails = 0;
+          $img.src = probe.src;
+          $info.style.display = 'none';
+          $err.style.display = 'none';
+          var now = new Date();
+          $stamp.textContent = now.toTimeString().slice(0, 8);
+        };
+        probe.onerror = function () {
+          consecutiveFails++;
+          if (consecutiveFails >= MAX_FAILS) {
+            $info.style.display = 'none';
+            $msg.textContent = 'Lost connection to the frame endpoint after ' + MAX_FAILS + ' failed polls.';
+            $err.style.display = 'block';
+          }
+        };
+        probe.src = u;
+      }
+
+      nextFrame();
+      setInterval(nextFrame, intervalMs);
+    })();
+  </script>
+</body>
+</html>

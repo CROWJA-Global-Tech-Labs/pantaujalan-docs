@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "CCTV323",
+    "name": "GANTASAN AREA BAWAH",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV323"
+  },
+  {
+    "id": "CCTV324",
+    "name": "GANTASAN BARAT",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV324"
+  },
+  {
+    "id": "CCTV42",
+    "name": "RTH JAMBU 1",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV42"
+  },
+  {
+    "id": "CCTV41",
+    "name": "RTH JAMBU 2",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV41"
+  },
+  {
+    "id": "CCTV322",
+    "name": "SENGKANG SELAMET BARAT",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV322"
+  },
+  {
+    "id": "CCTV321",
+    "name": "SENGKANG SELAMET TIMUR",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV321"
+  },
+  {
+    "id": "CCTV219",
+    "name": "SIMP3 LICIN",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV219"
+  },
+  {
+    "id": "CCTV220",
+    "name": "SIMP3 LICIN",
+    "category": "IJEN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV220"
+  },
+  {
+    "id": "CCTV150",
+    "name": "",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV150"
+  },
+  {
+    "id": "CCTV303",
+    "name": "CILIWUNG SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV303"
+  },
+  {
+    "id": "CCTV319",
+    "name": "CITARUM SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV319"
+  },
+  {
+    "id": "CCTV289",
+    "name": "DEP PASAR MOJOPANGGUNG1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV289"
+  },
+  {
+    "id": "CCTV290",
+    "name": "DEP PASAR MOJOPANGGUNG2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV290"
+  },
+  {
+    "id": "CCTV291",
+    "name": "DEP SPBU PENATABAN1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV291"
+  },
+  {
+    "id": "CCTV292",
+    "name": "DEP SPBU PENATABAN2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV292"
+  },
+  {
+    "id": "CCTV78",
+    "name": "DEPAN DINKES 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV78"
+  },
+  {
+    "id": "CCTV307",
+    "name": "DEPAN DISPORA1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV307"
+  },
+  {
+    "id": "CCTV308",
+    "name": "DEPAN DISPORA2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV308"
+  },
+  {
+    "id": "CCTV299",
+    "name": "DEPAN MANDIRI FINANCE",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV299"
+  },
+  {
+    "id": "CCTV353",
+    "name": "DEPAN MANDIRI FINANCE UTARA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV353"
+  },
+  {
+    "id": "CCTV244",
+    "name": "DEPAN MPM PERLIMAN DR SUTOMO1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV244"
+  },
+  {
+    "id": "CCTV245",
+    "name": "DEPAN MPM PERLIMAN DR SUTOMO2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV245"
+  },
+  {
+    "id": "CCTV305",
+    "name": "DEPAN OCHA1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV305"
+  },
+  {
+    "id": "CCTV306",
+    "name": "DEPAN OCHA2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV306"
+  },
+  {
+    "id": "CCTV215",
+    "name": "DEPAN PASAR GLAGAH1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV215"
+  },
+  {
+    "id": "CCTV216",
+    "name": "DEPAN PASAR GLAGAH2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV216"
+  },
+  {
+    "id": "CCTV327",
+    "name": "DEPAN PEMDA ARAH SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV327"
+  },
+  {
+    "id": "CCTV333",
+    "name": "DEPAN PEMDA ARAH TMP SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV333"
+  },
+  {
+    "id": "CCTV328",
+    "name": "DEPAN PEMDA UTARA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV328"
+  },
+  {
+    "id": "CCTV293",
+    "name": "DEPAN STIKOM PGRI1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV293"
+  },
+  {
+    "id": "CCTV294",
+    "name": "DEPAN STIKOM PGRI2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV294"
+  },
+  {
+    "id": "CCTV211",
+    "name": "DEPAN TERMINAL TERPADU SOBO1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV211"
+  },
+  {
+    "id": "CCTV212",
+    "name": "DEPAN TERMINAL TERPADU SOBO2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV212"
+  },
+  {
+    "id": "CCTV240",
+    "name": "DEPAN TOKO LARIS1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV240"
+  },
+  {
+    "id": "CCTV241",
+    "name": "DEPAN TOKO LARIS2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV241"
+  },
+  {
+    "id": "CCTV368",
+    "name": "INDOMART PAKIS",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV368"
+  },
+  {
+    "id": "CCTV83",
+    "name": "JL MT.HARYONO 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV83"
+  },
+  {
+    "id": "CCTV82",
+    "name": "JL MT.HARYONO 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV82"
+  },
+  {
+    "id": "CCTV155",
+    "name": "JL. LETNAN SUTAJI",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV155"
+  },
+  {
+    "id": "CCTV62",
+    "name": "KALIPURO BRAK 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV62"
+  },
+  {
+    "id": "CCTV61",
+    "name": "KALIPURO BRAK 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV61"
+  },
+  {
+    "id": "CCTV63",
+    "name": "KALIPURO BRAK 3",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV63"
+  },
+  {
+    "id": "CCTV137",
+    "name": "MENDUT 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV137"
+  },
+  {
+    "id": "CCTV54",
+    "name": "MOJOPANGGUNG 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV54"
+  },
+  {
+    "id": "CCTV53",
+    "name": "MOJOPANGGUNG 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV53"
+  },
+  {
+    "id": "CCTV84",
+    "name": "PALDAM HOTEL SELAMET 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV84"
+  },
+  {
+    "id": "CCTV85",
+    "name": "PALDAM HOTEL SELAMET 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV85"
+  },
+  {
+    "id": "CCTV326",
+    "name": "PEMDA GERBANG SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV326"
+  },
+  {
+    "id": "CCTV330",
+    "name": "PEMDA GERBANG UTARA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV330"
+  },
+  {
+    "id": "CCTV329",
+    "name": "PEMDA SELATAN DEPAN TPU",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV329"
+  },
+  {
+    "id": "CCTV277",
+    "name": "PER3AN GAPENSI MBOK NAH1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV277"
+  },
+  {
+    "id": "CCTV331",
+    "name": "PTZ DEPAN PEMDA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV331"
+  },
+  {
+    "id": "CCTV151",
+    "name": "RUAS JALAN A. YANI DEPAN PEMDA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV151"
+  },
+  {
+    "id": "CCTV70",
+    "name": "RUAS JALAN A. YANI KEL_SOBO",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV70"
+  },
+  {
+    "id": "CCTV146",
+    "name": "RUAS JALAN A. YANI MCD",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV146"
+  },
+  {
+    "id": "CCTV153",
+    "name": "RUAS JALAN A. YANI PEMDA GERBANG SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV153"
+  },
+  {
+    "id": "CCTV154",
+    "name": "RUAS JALAN A. YANI PEMDA SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV154"
+  },
+  {
+    "id": "CCTV148",
+    "name": "RUAS JALAN A. YANI PERPUS HUKUM 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV148"
+  },
+  {
+    "id": "CCTV149",
+    "name": "RUAS JALAN A. YANI PERPUS HUKUM 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV149"
+  },
+  {
+    "id": "CCTV147",
+    "name": "RUAS JALAN A. YANI RATU OSENG",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV147"
+  },
+  {
+    "id": "CCTV157",
+    "name": "RUAS JALAN PB. SUDIRMAN CILIWUNG",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV157"
+  },
+  {
+    "id": "CCTV143",
+    "name": "RUAS JALAN PB. SUDIRMAN CITARUM",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV143"
+  },
+  {
+    "id": "CCTV142",
+    "name": "RUAS JALAN PB. SUDIRMAN JEMBATAN KALILO",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV142"
+  },
+  {
+    "id": "CCTV37",
+    "name": "RUAS JALAN PB. SUDIRMAN LATENG",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV37"
+  },
+  {
+    "id": "CCTV158",
+    "name": "RUAS JALAN PB. SUDIRMAN MUSI",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV158"
+  },
+  {
+    "id": "CCTV144",
+    "name": "RUAS JALAN PB. SUDIRMAN RUAS JALAN PB. SUDIRMANYU",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV144"
+  },
+  {
+    "id": "CCTV145",
+    "name": "RUAS JALAN PB. SUDIRMAN SERAYU",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV145"
+  },
+  {
+    "id": "CCTV94",
+    "name": "RUAS JALAN S. PARMAN INDO SOBO",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV94"
+  },
+  {
+    "id": "CCTV93",
+    "name": "RUAS JL. A.YANI (BOROBUDUR) JL UTARA PEMDA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV93"
+  },
+  {
+    "id": "CCTV160",
+    "name": "Ruas Jalan PB. Sudirman  Sritanjung",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV160"
+  },
+  {
+    "id": "CCTV159",
+    "name": "Ruas Jalan PB. Sudirman Simp. lima",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV159"
+  },
+  {
+    "id": "CCTV156",
+    "name": "SAYU WIWIT AULA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV156"
+  },
+  {
+    "id": "CCTV256",
+    "name": "SIMP 3 KEJAKSAAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV256"
+  },
+  {
+    "id": "CCTV255",
+    "name": "SIMP 3 PATUNG SEPEDA2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV255"
+  },
+  {
+    "id": "CCTV250",
+    "name": "SIMP 3 SASAK PEROT1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV250"
+  },
+  {
+    "id": "CCTV251",
+    "name": "SIMP 3 SASAK PEROT2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV251"
+  },
+  {
+    "id": "CCTV246",
+    "name": "SIMP 3 STEIGER IMAM BONJOL1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV246"
+  },
+  {
+    "id": "CCTV247",
+    "name": "SIMP 3 STEIGER IMAM BONJOL2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV247"
+  },
+  {
+    "id": "CCTV281",
+    "name": "SIMP 3 STEIGER SURATI1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV281"
+  },
+  {
+    "id": "CCTV282",
+    "name": "SIMP 3 STEIGER SURATI2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV282"
+  },
+  {
+    "id": "CCTV252",
+    "name": "SIMP 3 WARATA1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV252"
+  },
+  {
+    "id": "CCTV253",
+    "name": "SIMP 3 WARATA2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV253"
+  },
+  {
+    "id": "CCTV267",
+    "name": "SIMP UNTAG1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV267"
+  },
+  {
+    "id": "CCTV268",
+    "name": "SIMP UNTAG2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV268"
+  },
+  {
+    "id": "CCTV162",
+    "name": "SIMP. 4 RAJAWALI 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV162"
+  },
+  {
+    "id": "CCTV163",
+    "name": "SIMP. 4 RAJAWALI 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV163"
+  },
+  {
+    "id": "CCTV297",
+    "name": "SIMP3 BPR WILIS1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV297"
+  },
+  {
+    "id": "CCTV298",
+    "name": "SIMP3 BPR WILIS2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV298"
+  },
+  {
+    "id": "CCTV287",
+    "name": "SIMP3 KLENTENG HO1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV287"
+  },
+  {
+    "id": "CCTV288",
+    "name": "SIMP3 KLENTENG HO2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV288"
+  },
+  {
+    "id": "CCTV254",
+    "name": "SIMP3 PATUNG SEPEDA1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV254"
+  },
+  {
+    "id": "CCTV271",
+    "name": "SIMP3 RINJANI1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV271"
+  },
+  {
+    "id": "CCTV272",
+    "name": "SIMP3 RINJANI2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV272"
+  },
+  {
+    "id": "CCTV263",
+    "name": "SIMP4 BARAT PEMDA1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV263"
+  },
+  {
+    "id": "CCTV264",
+    "name": "SIMP4 BARAT PEMDA2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV264"
+  },
+  {
+    "id": "CCTV285",
+    "name": "SIMP4 PKM KERTOSARI1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV285"
+  },
+  {
+    "id": "CCTV286",
+    "name": "SIMP4 PKM KERTOSARI2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV286"
+  },
+  {
+    "id": "CCTV265",
+    "name": "SIMP4 PORTAL PEMDA1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV265"
+  },
+  {
+    "id": "CCTV266",
+    "name": "SIMP4 PORTAL PEMDA2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV266"
+  },
+  {
+    "id": "CCTV295",
+    "name": "SIMP4 SINGONEGARAN DAN TEMENGGUNGAN1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV295"
+  },
+  {
+    "id": "CCTV296",
+    "name": "SIMP4 SINGONEGARAN DAN TEMENGGUNGAN2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV296"
+  },
+  {
+    "id": "CCTV235",
+    "name": "SIMPANG 3 BAKUNGAN2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV235"
+  },
+  {
+    "id": "CCTV232",
+    "name": "SIMPANG 3 CEMARA DEPAN POLRESTA1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV232"
+  },
+  {
+    "id": "CCTV233",
+    "name": "SIMPANG 3 CEMARA DEPAN POLRESTA2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV233"
+  },
+  {
+    "id": "CCTV43",
+    "name": "SIMPANG 3 PATUNG BARONG 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV43"
+  },
+  {
+    "id": "CCTV228",
+    "name": "SIMPANG 4 PAKIS1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV228"
+  },
+  {
+    "id": "CCTV229",
+    "name": "SIMPANG 4 PAKIS2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV229"
+  },
+  {
+    "id": "CCTV49",
+    "name": "SIMPANG 4 PANATBAN 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV49"
+  },
+  {
+    "id": "CCTV50",
+    "name": "SIMPANG 4 PANATBAN 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV50"
+  },
+  {
+    "id": "CCTV48",
+    "name": "SIMPANG 4 PANATBAN 3",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV48"
+  },
+  {
+    "id": "CCTV279",
+    "name": "SIMPANG 4 PECINAN1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV279"
+  },
+  {
+    "id": "CCTV280",
+    "name": "SIMPANG 4 PECINAN2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV280"
+  },
+  {
+    "id": "CCTV238",
+    "name": "SIMPANG 4 TRAFIC LIGHT BENGAWAN1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV238"
+  },
+  {
+    "id": "CCTV239",
+    "name": "SIMPANG 4 TRAFIC LIGHT BENGAWAN2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV239"
+  },
+  {
+    "id": "CCTV236",
+    "name": "SIMPANG 4 TRAFIC LIGHT MAN SOBO1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV236"
+  },
+  {
+    "id": "CCTV237",
+    "name": "SIMPANG 4 TRAFIC LIGHT MAN SOBO2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV237"
+  },
+  {
+    "id": "CCTV230",
+    "name": "SIMPANG 4 TRENGGONO",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV230"
+  },
+  {
+    "id": "CCTV231",
+    "name": "SIMPANG 4 TRENGGONO2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV231"
+  },
+  {
+    "id": "CCTV81",
+    "name": "SIMPANG BNI 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV81"
+  },
+  {
+    "id": "CCTV80",
+    "name": "SIMPANG BNI 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV80"
+  },
+  {
+    "id": "CCTV79",
+    "name": "SIMPANG BNI 3",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV79"
+  },
+  {
+    "id": "CCTV97",
+    "name": "SIMPANG PATUNG KUDA ARAH UTARA 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV97"
+  },
+  {
+    "id": "CCTV213",
+    "name": "SIMPANG3 POLSEK GIRI1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV213"
+  },
+  {
+    "id": "CCTV214",
+    "name": "SIMPANG3 POLSEK GIRI2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV214"
+  },
+  {
+    "id": "CCTV87",
+    "name": "TAMAN BLAMBANGAN MANDIRI 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV87"
+  },
+  {
+    "id": "CCTV365",
+    "name": "TAMAN BLAMBANGAN SELATAN",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV365"
+  },
+  {
+    "id": "CCTV366",
+    "name": "TAMAN BLAMBANGAN UTARA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV366"
+  },
+  {
+    "id": "CCTV332",
+    "name": "TAMAN PEMDA",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV332"
+  },
+  {
+    "id": "CCTV122",
+    "name": "TAMAN SRITANJUNG PARKIR DALAM",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV122"
+  },
+  {
+    "id": "CCTV123",
+    "name": "TAMAN SRITANJUNG SIMPANG 3",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV123"
+  },
+  {
+    "id": "CCTV354",
+    "name": "TOKO MAS MURNI 1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV354"
+  },
+  {
+    "id": "CCTV355",
+    "name": "TOKO MAS MURNI 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV355"
+  },
+  {
+    "id": "CCTV320",
+    "name": "TUGU 0 KM BANYUWANGI",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV320"
+  },
+  {
+    "id": "CCTV361",
+    "name": "TUGU 0 KM BANYUWANGI 2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV361"
+  },
+  {
+    "id": "CCTV300",
+    "name": "TUGU GARUDA PENDOPO1",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV300"
+  },
+  {
+    "id": "CCTV301",
+    "name": "TUGU GARUDA PENDOPO2",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV301"
+  },
+  {
+    "id": "CCTV302",
+    "name": "TUGU GARUDA PENDOPO3",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV302"
+  },
+  {
+    "id": "CCTV108",
+    "name": "cungking selatan",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV108"
+  },
+  {
+    "id": "CCTV109",
+    "name": "dpr timur",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV109"
+  },
+  {
+    "id": "CCTV113",
+    "name": "pegadaian barat",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV113"
+  },
+  {
+    "id": "CCTV114",
+    "name": "pegadaian selatan",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV114"
+  },
+  {
+    "id": "CCTV118",
+    "name": "simpang lima utara",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV118"
+  },
+  {
+    "id": "CCTV117",
+    "name": "simpanglima selatan",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV117"
+  },
+  {
+    "id": "CCTV116",
+    "name": "simpanglima timur",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV116"
+  },
+  {
+    "id": "CCTV106",
+    "name": "tawangalun selatan",
+    "category": "KOTA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV106"
+  },
+  {
+    "id": "CCTV234",
+    "name": "TPS BAKUNGAN",
+    "category": "PANTAU SAMPAH",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV234"
+  },
+  {
+    "id": "CCTV47",
+    "name": "TPS GIRI",
+    "category": "PANTAU SAMPAH",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV47"
+  },
+  {
+    "id": "CCTV400",
+    "name": "TPS KARANGREJO",
+    "category": "PANTAU SAMPAH",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV400"
+  },
+  {
+    "id": "CCTV161",
+    "name": "TPS SUMBER REJO",
+    "category": "PANTAU SAMPAH",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV161"
+  },
+  {
+    "id": "CCTV387",
+    "name": "CONTINENTAL BARAT",
+    "category": "PANTAU SUNGAI",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV387"
+  },
+  {
+    "id": "CCTV100",
+    "name": "JEMBATAN SUNGAI BAGONG",
+    "category": "PANTAU SUNGAI",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV100"
+  },
+  {
+    "id": "CCTV391",
+    "name": "SUNGAI ALASMALANG GARIT",
+    "category": "PANTAU SUNGAI",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV391"
+  },
+  {
+    "id": "CCTV392",
+    "name": "SUNGAI ALASMALANG GARIT 2",
+    "category": "PANTAU SUNGAI",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV392"
+  },
+  {
+    "id": "CCTV99",
+    "name": "SUNGAI BAGONG",
+    "category": "PANTAU SUNGAI",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV99"
+  },
+  {
+    "id": "CCTV134",
+    "name": "SUNGAI KALISOBO BARAT",
+    "category": "PANTAU SUNGAI",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV134"
+  },
+  {
+    "id": "CCTV73",
+    "name": "SUNGAI KALISOBO TIMUR",
+    "category": "PANTAU SUNGAI",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV73"
+  },
+  {
+    "id": "CCTV128",
+    "name": "PASAR KALIBARU",
+    "category": "PASAR",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV128"
+  },
+  {
+    "id": "CCTV385",
+    "name": "KECAMATAN KALIPURO",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV385"
+  },
+  {
+    "id": "CCTV383",
+    "name": "KECAMATAN LICIN",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV383"
+  },
+  {
+    "id": "CCTV381",
+    "name": "KECAMATAN ROGOJAMPI",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV381"
+  },
+  {
+    "id": "CCTV382",
+    "name": "KECAMATAN SEMPU",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV382"
+  },
+  {
+    "id": "CCTV380",
+    "name": "KECAMATAN SRONO",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV380"
+  },
+  {
+    "id": "CCTV386",
+    "name": "KECAMATAN WONGSOREJO",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV386"
+  },
+  {
+    "id": "CCTV69",
+    "name": "KELURAHAN KARANGREJO",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV69"
+  },
+  {
+    "id": "CCTV378",
+    "name": "KELURAHAN KEBALENAN",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV378"
+  },
+  {
+    "id": "CCTV377",
+    "name": "KELURAHAN KEPATIHAN",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV377"
+  },
+  {
+    "id": "CCTV68",
+    "name": "KELURAHAN KERTOSARI",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV68"
+  },
+  {
+    "id": "CCTV65",
+    "name": "KELURAHAN LATENG",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV65"
+  },
+  {
+    "id": "CCTV67",
+    "name": "KELURAHAN SINGOTRUNAN",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV67"
+  },
+  {
+    "id": "CCTV66",
+    "name": "KELURAHAN TEMENGGUNGAN",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV66"
+  },
+  {
+    "id": "CCTV379",
+    "name": "KELURAHAN TUKANGKAYU",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV379"
+  },
+  {
+    "id": "CCTV372",
+    "name": "MPP BANYUWANGI  FO",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV372"
+  },
+  {
+    "id": "CCTV371",
+    "name": "MPP BANYUWANGI LT 1",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV371"
+  },
+  {
+    "id": "CCTV373",
+    "name": "MPP BANYUWANGI LT1",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV373"
+  },
+  {
+    "id": "CCTV375",
+    "name": "MPP PASAR GENTENG PELAYANAN",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV375"
+  },
+  {
+    "id": "CCTV376",
+    "name": "MPP PASAR ROGOJAMPI PELAYANAN",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV376"
+  },
+  {
+    "id": "CCTV364",
+    "name": "MPP PELANAYANAN LT2 KANTOR",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV364"
+  },
+  {
+    "id": "CCTV363",
+    "name": "MPP PELAYANAN LT 2",
+    "category": "PELAYANAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV363"
+  },
+  {
+    "id": "CCTV349",
+    "name": "BULOG LEMAHBANG KULON 1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV349"
+  },
+  {
+    "id": "CCTV350",
+    "name": "BULOG LEMAHBANG KULON 2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV350"
+  },
+  {
+    "id": "CCTV221",
+    "name": "DEPAN HOTEL ELROYAL1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV221"
+  },
+  {
+    "id": "CCTV222",
+    "name": "DEPAN HOTEL ELROYAL2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV222"
+  },
+  {
+    "id": "CCTV126",
+    "name": "DEPAN PASAR KALIBARU ARAH JEMBER",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV126"
+  },
+  {
+    "id": "CCTV139",
+    "name": "DEPAN RTH KEDAYUNAN",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV139"
+  },
+  {
+    "id": "CCTV124",
+    "name": "GUMITIR  ARAH JEMBER",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV124"
+  },
+  {
+    "id": "CCTV125",
+    "name": "GUMITIR ARAH BANYUWANGI",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV125"
+  },
+  {
+    "id": "CCTV338",
+    "name": "PERBATASAN KALIBARU IN",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV338"
+  },
+  {
+    "id": "CCTV339",
+    "name": "PERBATASAN KALIBARU OUT",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV339"
+  },
+  {
+    "id": "CCTV46",
+    "name": "PUSKESMAS JALAN RAYA KALIBARU ARAH BARAT",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV46"
+  },
+  {
+    "id": "CCTV45",
+    "name": "PUSKESMAS JALAN RAYA KALIBARU ARAH TIMUR",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV45"
+  },
+  {
+    "id": "CCTV217",
+    "name": "SASAK TAMBONG1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV217"
+  },
+  {
+    "id": "CCTV218",
+    "name": "SASAK TAMBONG2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV218"
+  },
+  {
+    "id": "CCTV341",
+    "name": "SIMP LEMAHBANGDEWO BARAT",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV341"
+  },
+  {
+    "id": "CCTV340",
+    "name": "SIMP LEMAHBANGDEWO TIMUR",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV340"
+  },
+  {
+    "id": "CCTV170",
+    "name": "SIMP. 3 TAWANG ALUN",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV170"
+  },
+  {
+    "id": "CCTV39",
+    "name": "SIMP. CAM SUNEAST MALL TIMUR",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV39"
+  },
+  {
+    "id": "CCTV317",
+    "name": "SIMP3 PENDARUNGAN1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV317"
+  },
+  {
+    "id": "CCTV318",
+    "name": "SIMP3 PENDARUNGAN2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV318"
+  },
+  {
+    "id": "CCTV369",
+    "name": "SIMPANG 3 BENCULUK",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV369"
+  },
+  {
+    "id": "CCTV242",
+    "name": "SIMPANG 3 DR WIRIYANTO1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV242"
+  },
+  {
+    "id": "CCTV243",
+    "name": "SIMPANG 3 DR WIRIYANTO2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV243"
+  },
+  {
+    "id": "CCTV223",
+    "name": "SIMPANG 5 JAJAG1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV223"
+  },
+  {
+    "id": "CCTV224",
+    "name": "SIMPANG 5 JAJAG2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV224"
+  },
+  {
+    "id": "CCTV225",
+    "name": "SIMPANG 5 JAJAG3",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV225"
+  },
+  {
+    "id": "CCTV57",
+    "name": "SIMPANG MUNCAR 3",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV57"
+  },
+  {
+    "id": "CCTV58",
+    "name": "SIMPANG MUNCAR 4",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV58"
+  },
+  {
+    "id": "CCTV336",
+    "name": "SIMPANG PASAR BANGOREJO 1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV336"
+  },
+  {
+    "id": "CCTV337",
+    "name": "SIMPANG PASAR BANGOREJO 2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV337"
+  },
+  {
+    "id": "CCTV334",
+    "name": "SIMPANG POLIWANGI 1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV334"
+  },
+  {
+    "id": "CCTV335",
+    "name": "SIMPANG POLIWANGI 2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV335"
+  },
+  {
+    "id": "CCTV399",
+    "name": "SIMPANG POS ROGOJAMPI",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV399"
+  },
+  {
+    "id": "CCTV342",
+    "name": "TINGKUNGAN TEGALMOJO SINGOJURUH 1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV342"
+  },
+  {
+    "id": "CCTV343",
+    "name": "TINGKUNGAN TEGALMOJO SINGOJURUH 2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV343"
+  },
+  {
+    "id": "CCTV226",
+    "name": "TRAFIC LIGHT KARANGSARI1",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV226"
+  },
+  {
+    "id": "CCTV227",
+    "name": "TRAFIC LIGHT KARANGSARI2",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV227"
+  },
+  {
+    "id": "CCTV110",
+    "name": "lincing selatan",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV110"
+  },
+  {
+    "id": "CCTV112",
+    "name": "lincing tugu",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV112"
+  },
+  {
+    "id": "CCTV111",
+    "name": "lincing utara",
+    "category": "SELATAN",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV111"
+  },
+  {
+    "id": "CCTV101",
+    "name": "CCTV101",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV101"
+  },
+  {
+    "id": "CCTV105",
+    "name": "CCTV105",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV105"
+  },
+  {
+    "id": "CCTV107",
+    "name": "CCTV107",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV107"
+  },
+  {
+    "id": "CCTV115",
+    "name": "CCTV115",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV115"
+  },
+  {
+    "id": "CCTV127",
+    "name": "CCTV127",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV127"
+  },
+  {
+    "id": "CCTV129",
+    "name": "CCTV129",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV129"
+  },
+  {
+    "id": "CCTV130",
+    "name": "CCTV130",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV130"
+  },
+  {
+    "id": "CCTV131",
+    "name": "CCTV131",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV131"
+  },
+  {
+    "id": "CCTV132",
+    "name": "CCTV132",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV132"
+  },
+  {
+    "id": "CCTV133",
+    "name": "CCTV133",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV133"
+  },
+  {
+    "id": "CCTV136",
+    "name": "CCTV136",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV136"
+  },
+  {
+    "id": "CCTV138",
+    "name": "CCTV138",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV138"
+  },
+  {
+    "id": "CCTV140",
+    "name": "CCTV140",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV140"
+  },
+  {
+    "id": "CCTV141",
+    "name": "CCTV141",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV141"
+  },
+  {
+    "id": "CCTV152",
+    "name": "CCTV152",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV152"
+  },
+  {
+    "id": "CCTV171",
+    "name": "CCTV171",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV171"
+  },
+  {
+    "id": "CCTV173",
+    "name": "CCTV173",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV173"
+  },
+  {
+    "id": "CCTV179",
+    "name": "CCTV179",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV179"
+  },
+  {
+    "id": "CCTV180",
+    "name": "CCTV180",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV180"
+  },
+  {
+    "id": "CCTV181",
+    "name": "CCTV181",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV181"
+  },
+  {
+    "id": "CCTV182",
+    "name": "CCTV182",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV182"
+  },
+  {
+    "id": "CCTV183",
+    "name": "CCTV183",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV183"
+  },
+  {
+    "id": "CCTV184",
+    "name": "CCTV184",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV184"
+  },
+  {
+    "id": "CCTV185",
+    "name": "CCTV185",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV185"
+  },
+  {
+    "id": "CCTV186",
+    "name": "CCTV186",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV186"
+  },
+  {
+    "id": "CCTV187",
+    "name": "CCTV187",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV187"
+  },
+  {
+    "id": "CCTV188",
+    "name": "CCTV188",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV188"
+  },
+  {
+    "id": "CCTV189",
+    "name": "CCTV189",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV189"
+  },
+  {
+    "id": "CCTV190",
+    "name": "CCTV190",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV190"
+  },
+  {
+    "id": "CCTV191",
+    "name": "CCTV191",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV191"
+  },
+  {
+    "id": "CCTV192",
+    "name": "CCTV192",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV192"
+  },
+  {
+    "id": "CCTV193",
+    "name": "CCTV193",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV193"
+  },
+  {
+    "id": "CCTV194",
+    "name": "CCTV194",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV194"
+  },
+  {
+    "id": "CCTV195",
+    "name": "CCTV195",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV195"
+  },
+  {
+    "id": "CCTV196",
+    "name": "CCTV196",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV196"
+  },
+  {
+    "id": "CCTV248",
+    "name": "CCTV248",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV248"
+  },
+  {
+    "id": "CCTV249",
+    "name": "CCTV249",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV249"
+  },
+  {
+    "id": "CCTV257",
+    "name": "CCTV257",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV257"
+  },
+  {
+    "id": "CCTV258",
+    "name": "CCTV258",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV258"
+  },
+  {
+    "id": "CCTV278",
+    "name": "CCTV278",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV278"
+  },
+  {
+    "id": "CCTV304",
+    "name": "CCTV304",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV304"
+  },
+  {
+    "id": "CCTV356",
+    "name": "CCTV356",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV356"
+  },
+  {
+    "id": "CCTV357",
+    "name": "CCTV357",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV357"
+  },
+  {
+    "id": "CCTV362",
+    "name": "CCTV362",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV362"
+  },
+  {
+    "id": "CCTV374",
+    "name": "CCTV374",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV374"
+  },
+  {
+    "id": "CCTV38",
+    "name": "CCTV38",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV38"
+  },
+  {
+    "id": "CCTV384",
+    "name": "CCTV384",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV384"
+  },
+  {
+    "id": "CCTV40",
+    "name": "CCTV40",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV40"
+  },
+  {
+    "id": "CCTV44",
+    "name": "CCTV44",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV44"
+  },
+  {
+    "id": "CCTV51",
+    "name": "CCTV51",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV51"
+  },
+  {
+    "id": "CCTV52",
+    "name": "CCTV52",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV52"
+  },
+  {
+    "id": "CCTV55",
+    "name": "CCTV55",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV55"
+  },
+  {
+    "id": "CCTV56",
+    "name": "CCTV56",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV56"
+  },
+  {
+    "id": "CCTV59",
+    "name": "CCTV59",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV59"
+  },
+  {
+    "id": "CCTV60",
+    "name": "CCTV60",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV60"
+  },
+  {
+    "id": "CCTV64",
+    "name": "CCTV64",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV64"
+  },
+  {
+    "id": "CCTV71",
+    "name": "CCTV71",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV71"
+  },
+  {
+    "id": "CCTV72",
+    "name": "CCTV72",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV72"
+  },
+  {
+    "id": "CCTV74",
+    "name": "CCTV74",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV74"
+  },
+  {
+    "id": "CCTV75",
+    "name": "CCTV75",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV75"
+  },
+  {
+    "id": "CCTV86",
+    "name": "CCTV86",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV86"
+  },
+  {
+    "id": "CCTV88",
+    "name": "CCTV88",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV88"
+  },
+  {
+    "id": "CCTV96",
+    "name": "CCTV96",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV96"
+  },
+  {
+    "id": "CCTV98",
+    "name": "CCTV98",
+    "category": "UNLABELED",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV98"
+  },
+  {
+    "id": "CCTV177",
+    "name": "ASDP ARAH PINTU MASUK STASIUN KETAPANG",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV177"
+  },
+  {
+    "id": "CCTV360",
+    "name": "ASDP ARAH SELATAN",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV360"
+  },
+  {
+    "id": "CCTV359",
+    "name": "ASDP ARAH UTARA",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV359"
+  },
+  {
+    "id": "CCTV395",
+    "name": "ASDP LOKET MASUK",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV395"
+  },
+  {
+    "id": "CCTV393",
+    "name": "ASDP PINTU DALAM",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV393"
+  },
+  {
+    "id": "CCTV102",
+    "name": "ASDP PINTU KELUAR",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV102"
+  },
+  {
+    "id": "CCTV394",
+    "name": "ASDP PINTU KELUAR",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV394"
+  },
+  {
+    "id": "CCTV358",
+    "name": "ASDP PINTU MASUK LOKET",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV358"
+  },
+  {
+    "id": "CCTV313",
+    "name": "DEPAN BOSOWA BULUSAN1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV313"
+  },
+  {
+    "id": "CCTV314",
+    "name": "DEPAN BOSOWA BULUSAN2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV314"
+  },
+  {
+    "id": "CCTV176",
+    "name": "DEPAN KEC WONGSOREJO",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV176"
+  },
+  {
+    "id": "CCTV273",
+    "name": "DEPAN SD LATENG1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV273"
+  },
+  {
+    "id": "CCTV274",
+    "name": "DEPAN SD LATENG2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV274"
+  },
+  {
+    "id": "CCTV208",
+    "name": "DEPAN TERMINAL SRITANJUNG2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV208"
+  },
+  {
+    "id": "CCTV200",
+    "name": "GRAND WATU DODOL1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV200"
+  },
+  {
+    "id": "CCTV201",
+    "name": "GRAND WATUDODOL2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV201"
+  },
+  {
+    "id": "CCTV348",
+    "name": "LINGKAR UTARA 2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV348"
+  },
+  {
+    "id": "CCTV347",
+    "name": "LINGKAR UTARA1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV347"
+  },
+  {
+    "id": "CCTV283",
+    "name": "NAVO1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV283"
+  },
+  {
+    "id": "CCTV284",
+    "name": "NAVO2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV284"
+  },
+  {
+    "id": "CCTV206",
+    "name": "PASAR GALEKAN WONGSOREJO1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV206"
+  },
+  {
+    "id": "CCTV207",
+    "name": "PASAR GALEKAN WONGSOREJO2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV207"
+  },
+  {
+    "id": "CCTV344",
+    "name": "PERBATASAN UTARA BWI BAJULMATI IN",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV344"
+  },
+  {
+    "id": "CCTV345",
+    "name": "PERBATASAN UTARA BWI BAJULMATI OUT",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV345"
+  },
+  {
+    "id": "CCTV346",
+    "name": "PINTU KELUAR ASDP ANPR",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV346"
+  },
+  {
+    "id": "CCTV351",
+    "name": "PKBR PRABIK KERTAS BASUKI 1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV351"
+  },
+  {
+    "id": "CCTV352",
+    "name": "PKBR PRABIK KERTAS BASUKI 2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV352"
+  },
+  {
+    "id": "CCTV309",
+    "name": "SIMP3 MANGARAN BAJULMATI1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV309"
+  },
+  {
+    "id": "CCTV310",
+    "name": "SIMP3 MANGARAN BAJULMATI2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV310"
+  },
+  {
+    "id": "CCTV209",
+    "name": "SIMPANG FAIRLY1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV209"
+  },
+  {
+    "id": "CCTV210",
+    "name": "SIMPANG FAIRLY2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV210"
+  },
+  {
+    "id": "CCTV202",
+    "name": "SIMPANG PDAM WONGSOREJO1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV202"
+  },
+  {
+    "id": "CCTV203",
+    "name": "SIMPANG PDAM WONGSOREJO2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV203"
+  },
+  {
+    "id": "CCTV315",
+    "name": "TIKUNGAN MAKAM SAA 1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV315"
+  },
+  {
+    "id": "CCTV316",
+    "name": "TIKUNGAN MAKAM SAA 2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV316"
+  },
+  {
+    "id": "CCTV311",
+    "name": "TIKUNGAN MATAWI 1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV311"
+  },
+  {
+    "id": "CCTV312",
+    "name": "TIKUNGAN MATAWI 2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV312"
+  },
+  {
+    "id": "CCTV204",
+    "name": "TIKUNGAN PELABUHAN KAMPE1",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV204"
+  },
+  {
+    "id": "CCTV205",
+    "name": "TIKUNGAN PELABUHAN KAMPE2",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV205"
+  },
+  {
+    "id": "CCTV119",
+    "name": "sukowidi barat",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV119"
+  },
+  {
+    "id": "CCTV120",
+    "name": "sukowidi selatan",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV120"
+  },
+  {
+    "id": "CCTV121",
+    "name": "sukowidi utara",
+    "category": "UTARA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV121"
+  },
+  {
+    "id": "CCTV396",
+    "name": "GATE PULAU MERAH LUAR",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV396"
+  },
+  {
+    "id": "CCTV367",
+    "name": "GATE PULAU MERAH MASUK",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV367"
+  },
+  {
+    "id": "CCTV398",
+    "name": "GWD PATUNG GANDRUNG SELATAN",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV398"
+  },
+  {
+    "id": "CCTV397",
+    "name": "GWD PATUNG GANDRUNG UTARA",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV397"
+  },
+  {
+    "id": "CCTV388",
+    "name": "GWD PINTU MASUK",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV388"
+  },
+  {
+    "id": "CCTV95",
+    "name": "GWD TIKET PARKIR",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV95"
+  },
+  {
+    "id": "CCTV174",
+    "name": "PALTUDING PINTU MASUK",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV174"
+  },
+  {
+    "id": "CCTV198",
+    "name": "PINTU MASUK BOOM ARAH DALAM",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV198"
+  },
+  {
+    "id": "CCTV197",
+    "name": "PINTU MASUK BOOM ARAH LUAR",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV197"
+  },
+  {
+    "id": "CCTV370",
+    "name": "PINTU MASUK DJAWATAN",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV370"
+  },
+  {
+    "id": "CCTV135",
+    "name": "REST AREA GWD",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV135"
+  },
+  {
+    "id": "CCTV389",
+    "name": "TERMINAL TERPADU HALAMAN",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV389"
+  },
+  {
+    "id": "CCTV390",
+    "name": "TERMINAL TERPADU PINTU MASUK",
+    "category": "WISATA",
+    "url": "https://live.banyuwangikab.go.id/bjhsgfsgdfhjdgfyg3543g534g5y47856378fg8wetr783t4gw3yry/api/api/api/api/stream.m3u8?src=CCTV390"
+  }
+]
