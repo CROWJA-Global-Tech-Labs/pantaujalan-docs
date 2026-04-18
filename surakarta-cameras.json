@@ -1,0 +1,578 @@
+[
+  {
+    "id": "13",
+    "lokasi": "AGAS",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Agas.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FAgas.flv&n=AGAS"
+  },
+  {
+    "id": "52",
+    "lokasi": "BALAIKOTA",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/BalaiKota.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBalaiKota.flv&n=BALAIKOTA"
+  },
+  {
+    "id": "16",
+    "lokasi": "BALAPAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Balapan01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBalapan01.flv&n=BALAPAN"
+  },
+  {
+    "id": "46",
+    "lokasi": "BANJARSARI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Banjarsari.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBanjarsari.flv&n=BANJARSARI"
+  },
+  {
+    "id": "24",
+    "lokasi": "BARON",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Baron.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBaron.flv&n=BARON"
+  },
+  {
+    "id": "19",
+    "lokasi": "BATURONO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/BatuRono.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBatuRono.flv&n=BATURONO"
+  },
+  {
+    "id": "104",
+    "lokasi": "BAWAH FLYOVER PURWOSARI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/BawahFlyoverPurwosari.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBawahFlyoverPurwosari.flv&n=BAWAH%20FLYOVER%20PURWOSARI"
+  },
+  {
+    "id": "43",
+    "lokasi": "BUNDARAN BARON",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/BundaranBaron.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBundaranBaron.flv&n=BUNDARAN%20BARON"
+  },
+  {
+    "id": "82",
+    "lokasi": "BUNDARAN GLADAG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Gladag.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGladag.flv&n=BUNDARAN%20GLADAG"
+  },
+  {
+    "id": "67",
+    "lokasi": "BUNDARAN JOGLO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PalangJoglo.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPalangJoglo.flv&n=BUNDARAN%20JOGLO"
+  },
+  {
+    "id": "45",
+    "lokasi": "BUNDARAN TIPES",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/BundaranTipes.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBundaranTipes.flv&n=BUNDARAN%20TIPES"
+  },
+  {
+    "id": "53",
+    "lokasi": "CENGKLIK",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Cengklik.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FCengklik.flv&n=CENGKLIK"
+  },
+  {
+    "id": "29",
+    "lokasi": "DAWUNG SELATAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/DawungSelatan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FDawungSelatan.flv&n=DAWUNG%20SELATAN"
+  },
+  {
+    "id": "54",
+    "lokasi": "DPRD",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/DPRD.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FDPRD.flv&n=DPRD"
+  },
+  {
+    "id": "32",
+    "lokasi": "FAJAR INDAH",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/FajarIndah.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FFajarIndah.flv&n=FAJAR%20INDAH"
+  },
+  {
+    "id": "2",
+    "lokasi": "FAROKAH",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Farokah.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FFarokah.flv&n=FAROKAH"
+  },
+  {
+    "id": "85",
+    "lokasi": "FLYOVER PURWOSARI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/FlyoverTimur.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FFlyoverTimur.flv&n=FLYOVER%20PURWOSARI"
+  },
+  {
+    "id": "20",
+    "lokasi": "GADING",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Gading.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGading.flv&n=GADING"
+  },
+  {
+    "id": "21",
+    "lokasi": "GEMBLEGAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Gemblegan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGemblegan.flv&n=GEMBLEGAN"
+  },
+  {
+    "id": "5",
+    "lokasi": "GENDENGAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Gendengan01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGendengan01.flv&n=GENDENGAN"
+  },
+  {
+    "id": "36",
+    "lokasi": "GENENGAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Genengan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGenengan.flv&n=GENENGAN"
+  },
+  {
+    "id": "38",
+    "lokasi": "GILINGAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Gilingan01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGilingan01.flv&n=GILINGAN"
+  },
+  {
+    "id": "11",
+    "lokasi": "GIRIMULYO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/GiriMulyo01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGiriMulyo01.flv&n=GIRIMULYO"
+  },
+  {
+    "id": "102",
+    "lokasi": "JEMBATAN MOJO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/JembatanMojo.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FJembatanMojo.flv&n=JEMBATAN%20MOJO"
+  },
+  {
+    "id": "55",
+    "lokasi": "JEMBATAN TIRTONADI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/JembatanTirtonadi.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FJembatanTirtonadi.flv&n=JEMBATAN%20TIRTONADI"
+  },
+  {
+    "id": "37",
+    "lokasi": "JONGKE",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Jongke.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FJongke.flv&n=JONGKE"
+  },
+  {
+    "id": "86",
+    "lokasi": "JUANDA",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Juanda.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FJuanda.flv&n=JUANDA"
+  },
+  {
+    "id": "58",
+    "lokasi": "JURUG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Jurug.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FJurug.flv&n=JURUG"
+  },
+  {
+    "id": "91",
+    "lokasi": "JURUG TIMUR FIX",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/JurugTimur.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FJurugTimur.flv&n=JURUG%20TIMUR%20FIX"
+  },
+  {
+    "id": "59",
+    "lokasi": "KABANGAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Kabangan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKabangan.flv&n=KABANGAN"
+  },
+  {
+    "id": "34",
+    "lokasi": "KANDANG SAPI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/KandangSapi.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKandangSapi.flv&n=KANDANG%20SAPI"
+  },
+  {
+    "id": "60",
+    "lokasi": "KAWATAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Kawatan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKawatan.flv&n=KAWATAN"
+  },
+  {
+    "id": "39",
+    "lokasi": "KELURAHAN SUMBER",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/KelurahanSumber01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKelurahanSumber01.flv&n=KELURAHAN%20SUMBER"
+  },
+  {
+    "id": "3",
+    "lokasi": "KERTEN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Kerten.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKerten.flv&n=KERTEN"
+  },
+  {
+    "id": "44",
+    "lokasi": "KETANDAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Ketandan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKetandan.flv&n=KETANDAN"
+  },
+  {
+    "id": "1",
+    "lokasi": "KLECO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Kleco.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKleco.flv&n=KLECO"
+  },
+  {
+    "id": "42",
+    "lokasi": "KLODRAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Klodran.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKlodran.flv&n=KLODRAN"
+  },
+  {
+    "id": "30",
+    "lokasi": "KOMPLANG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Komplang01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FKomplang01.flv&n=KOMPLANG"
+  },
+  {
+    "id": "103",
+    "lokasi": "LEBAK",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/MijipinilihanLor.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FMijipinilihanLor.flv&n=LEBAK"
+  },
+  {
+    "id": "61",
+    "lokasi": "LOJI GANDRUNG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/LojiGandrung.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FLojiGandrung.flv&n=LOJI%20GANDRUNG"
+  },
+  {
+    "id": "57",
+    "lokasi": "MAKO BRIMOB",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Brimob01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FBrimob01.flv&n=MAKO%20BRIMOB"
+  },
+  {
+    "id": "40",
+    "lokasi": "MAKUTHO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Makutho.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FMakutho.flv&n=MAKUTHO"
+  },
+  {
+    "id": "62",
+    "lokasi": "MASJID AGUNG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/MasjidAgung.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FMasjidAgung.flv&n=MASJID%20AGUNG"
+  },
+  {
+    "id": "63",
+    "lokasi": "MIPITAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Mipitan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FMipitan.flv&n=MIPITAN"
+  },
+  {
+    "id": "64",
+    "lokasi": "MLIPAHAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Mlipahan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FMlipahan.flv&n=MLIPAHAN"
+  },
+  {
+    "id": "35",
+    "lokasi": "MOJOSONGO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Mojosongo.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FMojosongo.flv&n=MOJOSONGO"
+  },
+  {
+    "id": "41",
+    "lokasi": "MUJAHIDIN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Mujahidin.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FMujahidin.flv&n=MUJAHIDIN"
+  },
+  {
+    "id": "7",
+    "lokasi": "NGAPEMAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Ngapeman01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FNgapeman01.flv&n=NGAPEMAN"
+  },
+  {
+    "id": "33",
+    "lokasi": "NGEMPLAK",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Ngemplak.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FNgemplak.flv&n=NGEMPLAK"
+  },
+  {
+    "id": "99",
+    "lokasi": "NGEMPLAK BARAT",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakBarat.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FNgemplakBarat.flv&n=NGEMPLAK%20BARAT"
+  },
+  {
+    "id": "96",
+    "lokasi": "NGEMPLAK SELATAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakSelatan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FNgemplakSelatan.flv&n=NGEMPLAK%20SELATAN"
+  },
+  {
+    "id": "98",
+    "lokasi": "NGEMPLAK TIMUR",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakTimur.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FNgemplakTimur.flv&n=NGEMPLAK%20TIMUR"
+  },
+  {
+    "id": "97",
+    "lokasi": "NGEMPLAK UTARA",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakUtara.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FNgemplakUtara.flv&n=NGEMPLAK%20UTARA"
+  },
+  {
+    "id": "9",
+    "lokasi": "NONONGAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Nonongan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FNonongan.flv&n=NONONGAN"
+  },
+  {
+    "id": "65",
+    "lokasi": "OVERPASS MANAHAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/OverpassManahan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FOverpassManahan.flv&n=OVERPASS%20MANAHAN"
+  },
+  {
+    "id": "66",
+    "lokasi": "PAJANG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Pajang.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPajang.flv&n=PAJANG"
+  },
+  {
+    "id": "17",
+    "lokasi": "PANGGUNG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Panggung.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPanggung.flv&n=PANGGUNG"
+  },
+  {
+    "id": "68",
+    "lokasi": "PASAR BELING",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarBeling.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarBeling.flv&n=PASAR%20BELING"
+  },
+  {
+    "id": "69",
+    "lokasi": "PASAR GEDE",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarGede.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarGede.flv&n=PASAR%20GEDE"
+  },
+  {
+    "id": "83",
+    "lokasi": "PASAR KEMBANG",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarKembang.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarKembang.flv&n=PASAR%20KEMBANG"
+  },
+  {
+    "id": "70",
+    "lokasi": "PASAR KLEWER",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarKlewer.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarKlewer.flv&n=PASAR%20KLEWER"
+  },
+  {
+    "id": "18",
+    "lokasi": "PASAR KLIWON",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarKliwon.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarKliwon.flv&n=PASAR%20KLIWON"
+  },
+  {
+    "id": "71",
+    "lokasi": "PASAR LEGI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarLegi.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarLegi.flv&n=PASAR%20LEGI"
+  },
+  {
+    "id": "72",
+    "lokasi": "PASAR NONGKO",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarNongko.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarNongko.flv&n=PASAR%20NONGKO"
+  },
+  {
+    "id": "73",
+    "lokasi": "PASAR NUSUKAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarNusukan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarNusukan.flv&n=PASAR%20NUSUKAN"
+  },
+  {
+    "id": "8",
+    "lokasi": "PASAR PON",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PasarPon01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPasarPon01.flv&n=PASAR%20PON"
+  },
+  {
+    "id": "95",
+    "lokasi": "PENGADILAN SRIWEDARI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PengadilanSriwedari.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPengadilanSriwedari.flv&n=PENGADILAN%20SRIWEDARI"
+  },
+  {
+    "id": "74",
+    "lokasi": "PGS",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/PGS.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPGS.flv&n=PGS"
+  },
+  {
+    "id": "100",
+    "lokasi": "PUCANGSAWIT",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/GedungSerbagunaPucangsawit.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FGedungSerbagunaPucangsawit.flv&n=PUCANGSAWIT"
+  },
+  {
+    "id": "4",
+    "lokasi": "PURWOSARI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Purwosari.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FPurwosari.flv&n=PURWOSARI"
+  },
+  {
+    "id": "77",
+    "lokasi": "RAHAYU",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Rahayu01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FRahayu01.flv&n=RAHAYU"
+  },
+  {
+    "id": "78",
+    "lokasi": "RAMAYANA",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Ramayana.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FRamayana.flv&n=RAMAYANA"
+  },
+  {
+    "id": "76",
+    "lokasi": "RINGROAD",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/RingRoad.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FRingRoad.flv&n=RINGROAD"
+  },
+  {
+    "id": "14",
+    "lokasi": "SANGKRAH",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Sangkrah.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSangkrah.flv&n=SANGKRAH"
+  },
+  {
+    "id": "75",
+    "lokasi": "SATE SUMBER",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/SateSumber01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSateSumber01.flv&n=SATE%20SUMBER"
+  },
+  {
+    "id": "27",
+    "lokasi": "SEKARPACE",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Sekarpace.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSekarpace.flv&n=SEKARPACE"
+  },
+  {
+    "id": "88",
+    "lokasi": "SEKIP",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Sekip.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSekip.flv&n=SEKIP"
+  },
+  {
+    "id": "87",
+    "lokasi": "SEMANGGI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Semanggi.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSemanggi.flv&n=SEMANGGI"
+  },
+  {
+    "id": "79",
+    "lokasi": "SHOLIKIN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Sholikin01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSholikin01.flv&n=SHOLIKIN"
+  },
+  {
+    "id": "94",
+    "lokasi": "SINGOSAREN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Singosaren.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSingosaren.flv&n=SINGOSAREN"
+  },
+  {
+    "id": "90",
+    "lokasi": "SMP 18",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/SMP18.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSMP18.flv&n=SMP%2018"
+  },
+  {
+    "id": "101",
+    "lokasi": "SPBU PUCANGSAWIT",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/SPBUPucangsawit.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSPBUPucangsawit.flv&n=SPBU%20PUCANGSAWIT"
+  },
+  {
+    "id": "22",
+    "lokasi": "SRATEN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Sraten.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSraten.flv&n=SRATEN"
+  },
+  {
+    "id": "6",
+    "lokasi": "SRIWEDARI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Sriwedari01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSriwedari01.flv&n=SRIWEDARI"
+  },
+  {
+    "id": "10",
+    "lokasi": "SUDIRMAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Sudirman.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FSudirman.flv&n=SUDIRMAN"
+  },
+  {
+    "id": "80",
+    "lokasi": "TIMURAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Timuran.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FTimuran.flv&n=TIMURAN"
+  },
+  {
+    "id": "23",
+    "lokasi": "TIPES",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Tipes.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FTipes.flv&n=TIPES"
+  },
+  {
+    "id": "15",
+    "lokasi": "TIRTONADI",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Tirtonadi01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FTirtonadi01.flv&n=TIRTONADI"
+  },
+  {
+    "id": "26",
+    "lokasi": "TUGU CEMBENGAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Cembengan.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FCembengan.flv&n=TUGU%20CEMBENGAN"
+  },
+  {
+    "id": "12",
+    "lokasi": "TUGU WISNU",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/TuguWisnu01.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FTuguWisnu01.flv&n=TUGU%20WISNU"
+  },
+  {
+    "id": "28",
+    "lokasi": "UNS",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/UNS.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FUNS.flv&n=UNS"
+  },
+  {
+    "id": "92",
+    "lokasi": "UNS BARAT FIX",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/UNSBarat.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FUNSBarat.flv&n=UNS%20BARAT%20FIX"
+  },
+  {
+    "id": "93",
+    "lokasi": "UNS TIMUR FIX",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/UNSTimur.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FUNSTimur.flv&n=UNS%20TIMUR%20FIX"
+  },
+  {
+    "id": "81",
+    "lokasi": "URSULIN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Ursulin.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FUrsulin.flv&n=URSULIN"
+  },
+  {
+    "id": "25",
+    "lokasi": "WARUNG PELEM",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/WarungPelem.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FWarungPelem.flv&n=WARUNG%20PELEM"
+  },
+  {
+    "id": "51",
+    "lokasi": "WIDURAN",
+    "flv": "https://surakarta.atcsindonesia.info:8086/camera/Widuran.flv",
+    "viewer": "https://crowja-global-tech-labs.github.io/pantaujalan-docs/flv-player.html?s=https%3A%2F%2Fsurakarta.atcsindonesia.info%3A8086%2Fcamera%2FWiduran.flv&n=WIDURAN"
+  }
+]
