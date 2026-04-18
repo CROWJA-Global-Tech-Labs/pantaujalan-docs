@@ -31,7 +31,9 @@
     </div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/flv.js@1.6.2/dist/flv.min.js"></script>
+  <!-- Self-hosted to avoid jsdelivr being slow/blocked on some Indonesian
+       ISPs. Served from the same GitHub Pages origin as this page. -->
+  <script src="./flv.min.js"></script>
   <script>
     // This page is a thin wrapper that plays an HTTP-FLV live stream
     // inside a WebView. PantauJalan points its WEB-type feed URLs here
