@@ -1,0 +1,20 @@
+[
+  {
+    "id": "id_jbr_1",
+    "name": "Perempatan Sudirman",
+    "kabupaten": "Jembrana",
+    "provinsi": "Bali",
+    "url": "https://api-cctv.jembranakab.go.id/api/stream.m3u8?src=jembrana-1",
+    "lat": "-8.35827500",
+    "lng": "114.63566600"
+  },
+  {
+    "id": "id_jbr_2",
+    "name": "Terminal Kargo",
+    "kabupaten": "Jembrana",
+    "provinsi": "Bali",
+    "url": "https://api-cctv.jembranakab.go.id/api/stream.m3u8?src=jembrana-2",
+    "lat": "-8.35356900",
+    "lng": "114.60440000"
+  }
+]

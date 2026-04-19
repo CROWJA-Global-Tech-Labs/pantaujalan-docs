@@ -1,0 +1,155 @@
+[
+  {
+    "id": "id_bkl_14",
+    "name": "Gereja Tebeng",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam14/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_13",
+    "name": "Gor Sawah Lebar",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam13/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_9",
+    "name": "Simpang 3 Pasar Minggu",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam09/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_11",
+    "name": "Simpang 5 Anggut",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam11/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_6",
+    "name": "Simpang 5 Bundaran",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam06/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_12",
+    "name": "Simpang 5 Penurunan",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam12/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_7",
+    "name": "Simpang 5 RSHD",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam07/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_8",
+    "name": "Simpang 5 S Parman",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam08/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_5",
+    "name": "Simpang 5 Smart City",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam05/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_16",
+    "name": "Simpang Dehasen",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam16/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_17",
+    "name": "Simpang Gor 2",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam17/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_15",
+    "name": "Simpang Gor-Cendana",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam15/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_2",
+    "name": "Simpang Jam",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam02/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_10",
+    "name": "Simpang Kanwil",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam10/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_1",
+    "name": "Simpang Kominfo",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam01/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_4",
+    "name": "Simpang SKIP Pd Jati",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam04/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bkl_3",
+    "name": "Simpang SKIP S Parman",
+    "kabupaten": "Bengkulu Kota",
+    "provinsi": "Bengkulu",
+    "url": "https://cctv-source.bengkulukota.go.id/hls/cam03/index.m3u8",
+    "lat": "",
+    "lng": ""
+  }
+]

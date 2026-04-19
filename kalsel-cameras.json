@@ -1,0 +1,893 @@
+[
+  {
+    "id": "id_bjb_5",
+    "name": "A1 SPBU SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/a1_simpang4_arah_pom/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_6",
+    "name": "A2 ULIN SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_7",
+    "name": "A3 PTZ SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_29",
+    "name": "ARAH DISPENDUK PANGERAN ANTASARI",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/depan_disdukcapil/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_3",
+    "name": "ARAH GERBANG ULM",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/arah_gerbang_ulm/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_2",
+    "name": "ARAH MUSEUM",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/arah_museum/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_1",
+    "name": "ARAH POLRESTA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/arah_polresta/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_4",
+    "name": "ARAH PURNAMA ULM",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/arah_purnama/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_8",
+    "name": "B2 CEMPAKA SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/b2_arah_cempaka/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_60",
+    "name": "BALAI KOTA ARAH MURDJANI",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/balai_kota_murjani/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_30",
+    "name": "BRIMOB ARAH BANJARMASIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/marka_brimob_arah_banjarmasin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_54",
+    "name": "BRIMOB ARAH SIMPANG 3",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/brimob_arah_simpang_3/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_13",
+    "name": "BUNDARAN AMACO",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/bundaran_amaco/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_47",
+    "name": "BUNDARAN KAMARATIH ARAH BANJARMASIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/kamaratih_arah_banjarmasin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_46",
+    "name": "BUNDARAN KAMARATIH ARAH JALAN ANGKASA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/kamaratih_arah_angkasa/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_45",
+    "name": "BUNDARAN KAMARATIH ARAH JALAN HERCULES",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/bundaran_kamaratih_arah_hercules/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_44",
+    "name": "BUNDARAN KAMARATIH GERAI PELAYANAN ARAH JALAN ANGKASA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/kamaratih_arah_mall/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_34",
+    "name": "BUNDARAN PALAM TRIKORA DEPAN INDOMARET",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/bundaran_palam_depan_indomaret/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_33",
+    "name": "BUNDARAN PALAM TRIKORA TAMAN PAMA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_17",
+    "name": "BUNDARAN TOPI TOGA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/bundaran_stm/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_41",
+    "name": "BUNDARAN TRIKORA MASJID AL-MUNAWARAH",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_9",
+    "name": "C1 POLISI SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/c1_simpang4_arah_cempaka/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_10",
+    "name": "C2 BANJARMASIN SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_11",
+    "name": "C3 PTZ SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_61",
+    "name": "CCTV PERTIGAAN KEBUN KARET",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/pertigaan_kebun_karet/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_59",
+    "name": "CCTV PERTIGAAN TRIKORA ARAH RO ULIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/pertigaan_trikora_arah_ro_ulin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_62",
+    "name": "D1 SIMPANG 4 BJB",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/d1_arah_banjarbaru/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_12",
+    "name": "D2 MARTAPURA SIMPANG 4",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/d2_arah_martapura/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_70",
+    "name": "DEPAN G.BHAYANGKARA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/depan_gg_bhayangkara/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_67",
+    "name": "DEPAN PASAR ULIN RAYA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/depan_pasar_ulin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_35",
+    "name": "DEPAN STIMIK ARAH BANJARMASIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/depan_stimik_arah_banjarmasin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_48",
+    "name": "HALTE RO.ULIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/ip_camera71/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_63",
+    "name": "Halte minggu raya",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/Halte_minggu_raya/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_65",
+    "name": "Halte unlam 1",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/halte_unlam_1/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_28",
+    "name": "JEMBATAN AL-MANSYUR",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jembatan_al_mansyur/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_27",
+    "name": "JEMBATAN CEMPAKA 1",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jembatan_cempaka_1/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_71",
+    "name": "JEMBATAN CEMPAKA 2",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jembatan_cempaka_2/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_23",
+    "name": "JEMBATAN KEMBAR ARAH BANJARBARU",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jembatan_kembar_arah_banjarbaru/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_22",
+    "name": "JEMBATAN KEMBAR ARAH BANJARMASIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jembatan_kembar_arah_banjarmasin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_31",
+    "name": "JEMBATAN KEMUNING",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jembatan_kemuning/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_26",
+    "name": "JEMBATAN TONHAR LANDASAN ULIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jembatan_tonhar/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_19",
+    "name": "JPO DALAM SELATAN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jpo_dalam_selatan/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_18",
+    "name": "JPO DALAM UTARA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jpo_dalam_utara/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_21",
+    "name": "JPO TANGGA SELATAN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jpo_tangga_selatan/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_20",
+    "name": "JPO TANGGA UTARA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/jpo_tangga_utara/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_64",
+    "name": "KM33 DEPAN MESJID",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/marka_depan_mesjid_33/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_24",
+    "name": "KM33 UTARA ARAH BANJARBARU",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/lampu_merah_ro_ulin_arah_bjb/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_25",
+    "name": "KM33 UTARA ARAH RO-ULIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/km33_barat_arah_ROulin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_36",
+    "name": "LAPANGAN MURDJANI PTZ",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/ptz_murjani/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_55",
+    "name": "PEREMPATAN TARUNA PRAJA (BARJAD)",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/simpang_4_barjad/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_43",
+    "name": "PERTIGAAN AMBULUNG",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_51",
+    "name": "PERTIGAAN SUNGAI ULIN ARAH BANJARBARU",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_banjarbaru/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_57",
+    "name": "PERTIGAAN SUNGAI ULIN ARAH MANDIANGIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_mandiangin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_58",
+    "name": "PERTIGAAN TRIKORA RO ULIN ARAH MASJID AGUNG",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/pertigaan_trikora_arah_mesjid_agung/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_40",
+    "name": "POLSEK BJB ARAH BANJARMASIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/depan_polsek_arah_banjarmasin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_39",
+    "name": "POLSEK BJB ARAH SIMPANG EMPAT",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/depan_polsek_arah_simpang4/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_53",
+    "name": "PTZ BRIMOB ARAH PALAM",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/ptz_brimob/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_50",
+    "name": "PTZ RO ULIN 33 Arah Banjarmasin",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_52",
+    "name": "PTZ TAMAN MAWAR ARAH SD",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/taman_mawar_ptz_arah_sd/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_15",
+    "name": "QMALL ARAH BATAS KOTA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/qmall_arah_batas_kota/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_14",
+    "name": "QMALL ARAH SIMPANG EMPAT",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_16",
+    "name": "REBATIG PTZ",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/rebatig/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_56",
+    "name": "STIMIK ARAH BANJARBARU",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/depan_stimik_arah_banjarbaru/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_37",
+    "name": "SULTAN AGUNG ARAH BANJARBARU",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/sultan_agung_arah_banjarbaru/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_38",
+    "name": "SULTAN AGUNG ARAH BANJARMASIN",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/sultan_agung_arah_banjarmasin/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_49",
+    "name": "TAMAN MAWAR",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/taman_mawar_arah_taman_tengah/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_32",
+    "name": "TAMAN MINGGU RAYA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/taman_minggu_raya/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_72",
+    "name": "THE BREEZE WATER PARK",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/breeze/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_42",
+    "name": "TRIKORA A.YANI UJUNG",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/trikora_a_yani_ujung/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_68",
+    "name": "TRIKORA CEMPAKA",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_69",
+    "name": "TRIKORA CEMPAKA ARAH BANJARBARU",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjb_66",
+    "name": "halte STIMIK",
+    "kabupaten": "Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://stream-backup.banjarbarukota.go.id/halte_STIMIK/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_2",
+    "name": "Halaman Jembatan Pulau Bromo",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/ec158432-3fac-4468-8a60-b07d63016e67.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_3",
+    "name": "Jembatan Pulau Bromo Turunan",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/96faa5fe-2f32-4749-a233-7a8b5844ff45.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_17",
+    "name": "Kamboja Taman View 1",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/89775be6-43b3-4978-8a1d-fb83ae611d15.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_16",
+    "name": "Kamboja Taman View 2",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/9e559a4b-6704-4f5a-b234-8e144cc51b14.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_1",
+    "name": "Kelayan - Rusunawa Persimpangan",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/d8d71723-2ec7-4080-bf51-88e0db9d0a00.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_8",
+    "name": "Pintu Masuk Menara Pandang",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/55653afe-5b47-445a-a1a7-f1fb88da5519.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_4",
+    "name": "Samping Tugu 0km",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/63d1a727-1577-406a-abc3-2c14d71d824e.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_7",
+    "name": "Siring 0km",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/6bc9a5b5-f084-4705-9422-0d14e37e9f9a.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_6",
+    "name": "Siring 0km 2",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/10969b59-7319-480b-8d65-d24d73c21da5.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_5",
+    "name": "Siring 0km Panggung",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/deeabb7f-c5fa-4fd2-80cd-9693ca256280.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_10",
+    "name": "Siring Dermaga",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/180f6b55-aa16-41f1-b1a2-28bf336ddfb4.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_9",
+    "name": "Siring Pos Dermaga",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/ade8407f-4d92-429c-bf89-2c87e1938c6e.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_13",
+    "name": "TPS Kuripan",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/e36563ff-4f2d-406e-9239-0ade6a5b3891.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_14",
+    "name": "TPS Kuripan kanan",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/4a5276fc-42b9-4201-9609-d6705b06c553.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_15",
+    "name": "TPS Kuripan kiri",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/92983779-1433-40c7-bec8-d03e21e6df32.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_12",
+    "name": "Taman Kelayan 1",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/8e75f369-2431-46ea-a114-eb8f110ab593.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bjm_11",
+    "name": "Taman Kelayan Basket",
+    "kabupaten": "Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://rtsp-pemko-bjm.aldilinux.my.id/memfs/9362ff9e-0406-4dae-b07d-80c198776604.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_2",
+    "name": "Ketupat Alfalah",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/alfalah/ketupat-alfalah.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_9",
+    "name": "Ketupat Hamalau",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/hamalau/ketupat-hamalau.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_7",
+    "name": "Muara Banta",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/muarabanta/muara-banta.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_5",
+    "name": "Muara Gambah",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/gambah/muara-gambah.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_3",
+    "name": "Muara Sangkuang",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/muarasangkuang/muara-sangkuang.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_10",
+    "name": "Simpang Bri",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/simpangbri/simpang-bri.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_4",
+    "name": "Simpang Kompi",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/kompi/simpang-kompi.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_6",
+    "name": "Simpang Lima",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/lima/simpang-lima.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_8",
+    "name": "Simpang Murni",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/murni/simpang-murni.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_hss_1",
+    "name": "Tugu Dodol",
+    "kabupaten": "Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://cctv.hulusungaiselatankab.go.id/hls/dodol/tugu-dodol.m3u8",
+    "lat": "",
+    "lng": ""
+  }
+]
