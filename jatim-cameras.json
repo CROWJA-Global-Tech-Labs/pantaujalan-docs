@@ -1,0 +1,128 @@
+[
+  {
+    "id": "jt_bjn_207",
+    "name": "DEPAN UJI KENDARAAN BERMOTOR",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/0682655b-c640-40a5-a611-fe3a6b905502.m3u8",
+    "lat": "-7.1794669232482695",
+    "lng": "111.90620720386507"
+  },
+  {
+    "id": "jt_bjn_196",
+    "name": "SIMPANG 3 AHMAD YANI - VETERAN",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/121464f4-cfbc-4bbf-bd2e-247de018f401.m3u8",
+    "lat": "-7.170359528096316",
+    "lng": "111.89474344253541"
+  },
+  {
+    "id": "jt_bjn_201",
+    "name": "SIMPANG 3 CAMPUREJO - LETTU SUYITNO",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/9f01c568-f320-489f-8422-23003b18b678.m3u8",
+    "lat": "-7.141967388819673",
+    "lng": "111.90203100442888"
+  },
+  {
+    "id": "jt_bjn_195",
+    "name": "SIMPANG 3 JAMBEAN - BASUKI RAHMAT",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/7535db5e-d96f-4fc9-ae7d-ff1dc41f79ce.m3u8",
+    "lat": "-7.166451595290424",
+    "lng": "111.88983231782915"
+  },
+  {
+    "id": "jt_bjn_206",
+    "name": "SIMPANG 4 BASUKI RAHMAT - DR.CIPTO",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/4d630ff3-a34a-45bc-b265-d63b004cd2c0.m3u8",
+    "lat": "-7.157437356014211",
+    "lng": "111.89152747392657"
+  },
+  {
+    "id": "jt_bjn_190",
+    "name": "SIMPANG 4 BUNDARAN JETAK",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/af39d772-e7e0-493c-aba1-4460d473bfa8.m3u8",
+    "lat": "-7.163179756835849",
+    "lng": "111.86979654923786"
+  },
+  {
+    "id": "jt_bjn_198",
+    "name": "SIMPANG 4 DIPONEGORO",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/470ccddf-90a1-42c3-827a-c17976900567.m3u8",
+    "lat": "-7.152246071012017",
+    "lng": "111.88258767127991"
+  },
+  {
+    "id": "jt_bjn_208",
+    "name": "SIMPANG 4 DR.CIPTO - DR.SUHARSO",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/e48d590c-9788-45d1-b3e2-32243074e6a8.m3u8",
+    "lat": "-7.157365978896731",
+    "lng": "111.8887621164322"
+  },
+  {
+    "id": "jt_bjn_194",
+    "name": "SIMPANG 4 KREMPYENG - GAJAH MADA",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/fd9a18d4-a5f9-4046-b60c-065512722ee9.m3u8",
+    "lat": "-7.161948250750649",
+    "lng": "111.88418358564378"
+  },
+  {
+    "id": "jt_bjn_200",
+    "name": "SIMPANG 4 MLATEN",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/285b6a91-2eb3-4d8b-aee8-4f4d459302df.m3u8",
+    "lat": "-7.153644123916225",
+    "lng": "111.90096884965898"
+  },
+  {
+    "id": "jt_bjn_199",
+    "name": "SIMPANG 4 PLN - SAWUNGGALING",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/94774749-ebac-4563-b91e-cd24249f15ba.m3u8",
+    "lat": "-7.152724633438197",
+    "lng": "111.8916065990925"
+  },
+  {
+    "id": "jt_bjn_191",
+    "name": "SIMPANG 4 RAJEKWESI - SOSRODILOGO",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/05dfbeca-138c-4e12-a89a-c7b4f08375e7.m3u8",
+    "lat": "-7.155721765544412",
+    "lng": "111.8721914291382"
+  },
+  {
+    "id": "jt_bjn_209",
+    "name": "SIMPANG 4 TEUKU UMAR",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/744634a6-f7ac-41b0-8334-7a8bd49aec65.m3u8",
+    "lat": "-7.1526293035601425",
+    "lng": "111.8897277054471"
+  },
+  {
+    "id": "jt_bjn_192",
+    "name": "SIMPANG 4 U.SUROPATI - PANGLIMA POLIM",
+    "kabupaten": "Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/b707920d-4922-40cd-aa3a-40335f4d1139.m3u8",
+    "lat": "-7.158601302527837",
+    "lng": "111.87938109040262"
+  }
+]
