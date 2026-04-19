@@ -1,5 +1,293 @@
 [
   {
+    "id": "id_bms_ruas_patriot",
+    "name": "Ruas Patriot",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_ruas_patriot/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_ruas_tugu_adipura",
+    "name": "Ruas Tugu Adipura",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_ruas_tugu_adipura/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_ajibarang",
+    "name": "Simpang Ajibarang",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_ajibarang/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_alun_alun",
+    "name": "Simpang Alun Alun",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_alun_alun/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_gor_satria",
+    "name": "Simpang Gor Satria",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_gor_satria/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_gor_satria_selatan",
+    "name": "Simpang Gor Satria Selatan",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_gor_satria_selatan/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_jl_masjid",
+    "name": "Simpang Jl Masjid",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_jl_masjid/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_kalibagor",
+    "name": "Simpang Kalibagor",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_kalibagor/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_kalibogor",
+    "name": "Simpang Kalibogor",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_kalibogor/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_karang_bawang",
+    "name": "Simpang Karang Bawang",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_karang_bawang/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_karang_bawang_barat",
+    "name": "Simpang Karang Bawang Barat",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_karang_bawang_barat/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_karang_bawang_timur",
+    "name": "Simpang Karang Bawang Timur",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_karang_bawang_timur/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_karanglo",
+    "name": "Simpang Karanglo",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_karanglo/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_kebon_dalem_timur",
+    "name": "Simpang Kebon Dalem Timur",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_kebon_dalem_timur/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_kebondalem",
+    "name": "Simpang Kebondalem",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_kebondalem/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_kebondalem_barat",
+    "name": "Simpang Kebondalem Barat",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_kebondalem_barat/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_linggamas",
+    "name": "Simpang Linggamas",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_linggamas/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_museum_bri",
+    "name": "Simpang Museum Bri",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_museum_bri/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_patriot",
+    "name": "Simpang Patriot",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_patriot/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sangkal_putung",
+    "name": "Simpang Sangkal Putung",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sangkal_putung/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sangkal_putung_timur",
+    "name": "Simpang Sangkal Putung Timur",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sangkal_putung_timur/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sawangan",
+    "name": "Simpang Sawangan",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sawangan/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_simpang_patriot",
+    "name": "Simpang Simpang Patriot",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_simpang_patriot/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_situmpur",
+    "name": "Simpang Situmpur",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_situmpur/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sokaraja",
+    "name": "Simpang Sokaraja",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sokaraja/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sokaraja_barat",
+    "name": "Simpang Sokaraja Barat",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sokaraja_barat/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sokaraja_selatan",
+    "name": "Simpang Sokaraja Selatan",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sokaraja_selatan/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sokaraja_selatan_2",
+    "name": "Simpang Sokaraja Selatan 2",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sokaraja_selatan_2/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sutoruman_barat",
+    "name": "Simpang Sutoruman Barat",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sutoruman_barat/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_sutosuman",
+    "name": "Simpang Sutosuman",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_sutosuman/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_simpang_tanjung_utara",
+    "name": "Simpang Tanjung Utara",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_simpang_tanjung_utara/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_bms_underpass",
+    "name": "Underpass",
+    "kabupaten": "Banyumas",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv.dev.banyumaskab.go.id/cctv_underpass/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
     "id": "jt_kbm_3",
     "name": "Merdeka (Timur 1)",
     "kabupaten": "Kebumen",
