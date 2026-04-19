@@ -1,0 +1,466 @@
+[
+  {
+    "id": "jt_kbm_3",
+    "name": "Merdeka (Timur 1)",
+    "kabupaten": "Kebumen",
+    "url": "https://cctv.kebumenkab.go.id/assets/video/alun_alun_utara/stream.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_kbm_4",
+    "name": "Merdeka (Timur 2)",
+    "kabupaten": "Kebumen",
+    "url": "https://cctv.kebumenkab.go.id/assets/video/alun_alun_selatan/stream.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_kbm_2",
+    "name": "Simpang 4 - SMP N 5 Kebumen",
+    "kabupaten": "Kebumen",
+    "url": "https://cctv.kebumenkab.go.id/assets/video/smp5/stream.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_kbm_1",
+    "name": "Soetta",
+    "kabupaten": "Kebumen",
+    "url": "https://cctv.kebumenkab.go.id/assets/video/pasar_timur/stream.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_mgk_0e575a53",
+    "name": "Magelang Kota · 0e575a53",
+    "kabupaten": "Magelang Kota",
+    "url": "https://dev.cctv.magelangkota.go.id/memfs/0e575a53-cdc1-421c-9563-6fc3395abd10.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_mgk_67338104",
+    "name": "Magelang Kota · 67338104",
+    "kabupaten": "Magelang Kota",
+    "url": "https://dev.cctv.magelangkota.go.id/memfs/67338104-0028-4720-9f47-110fd4c0e7a9.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_mgk_7df59214",
+    "name": "Magelang Kota · 7df59214",
+    "kabupaten": "Magelang Kota",
+    "url": "https://dev.cctv.magelangkota.go.id/memfs/7df59214-0e5b-40df-b467-75a7857b0159.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_mgk_c73a535b",
+    "name": "Magelang Kota · c73a535b",
+    "kabupaten": "Magelang Kota",
+    "url": "https://dev.cctv.magelangkota.go.id/memfs/c73a535b-71d2-4ac3-b1ab-c92ca9d2adc9.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_alunalun",
+    "name": "Alunalun",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/alunalun/alunalun1.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_bejibarat",
+    "name": "Bejibarat",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/bejibarat/bejibarat.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_bejiselatan",
+    "name": "Bejiselatan",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/bejiselatan/bejiselatan.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_bejitimur",
+    "name": "Bejitimur",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/bejitimur/bejitimur.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_bojongbarat",
+    "name": "Bojongbarat",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/bojongbarat/bojongbarat.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_bojongutara",
+    "name": "Bojongutara",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/bojongutara/bojongutara.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_city",
+    "name": "City",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/city/city.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_depanpendopo1",
+    "name": "Depanpendopo1",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/2026/depanpendopo1/depanpendopo1.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_depanpendopo2",
+    "name": "Depanpendopo2",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/2026/depanpendopo2/depanpendopo2.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_masjidagung",
+    "name": "Masjidagung",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/masjidagung/masjid1.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_petarukanbarat",
+    "name": "Petarukanbarat",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/petarukanbarat/petarukanbarat.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_petarukantimur",
+    "name": "Petarukantimur",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/petarukantimur/petarukantimur.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_pml_tiptopsel",
+    "name": "Tiptopsel",
+    "kabupaten": "Pemalang",
+    "url": "https://stream.pemalangkab.go.id/dishub/tiptopsel/tiptopsel.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "jt_wnb_37",
+    "name": "CCTV DINSOSPMD — Gerbang",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/7913a914-b84c-425e-9e51-1195c9e07b41.m3u8",
+    "lat": "-7.35653714",
+    "lng": "109.90610003"
+  },
+  {
+    "id": "jt_wnb_57",
+    "name": "CCTV DPRD — GERBANG",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/ef6e78bc-fe59-4004-b28e-efe8a34f8965.m3u8",
+    "lat": "-7.35687381",
+    "lng": "109.90488768"
+  },
+  {
+    "id": "jt_wnb_39",
+    "name": "KANTOR KEC. WATUMALANG — Gerbang Kantor",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/eafdbd5b-86b2-4415-a53c-a62641b483de.m3u8",
+    "lat": "-7.33000570",
+    "lng": "109.85901117"
+  },
+  {
+    "id": "jt_wnb_55",
+    "name": "PASAR INDUK — JEMBATAN",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/433b7d40-9e49-4f9c-ab03-94a01fcebddf.m3u8",
+    "lat": "-7.36269946",
+    "lng": "109.90218401"
+  },
+  {
+    "id": "jt_wnb_1",
+    "name": "PERTIGAAN PAHLAWAN — PAHLAWAN 1",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/c470e297-eeb0-405f-b362-aa662bfd2c07.m3u8",
+    "lat": "-7.36529148",
+    "lng": "109.92125670"
+  },
+  {
+    "id": "jt_wnb_53",
+    "name": "POS POLISI KERTEK — CCTV 1",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/a48ccb53-937e-487c-8867-39b355ee048b.m3u8",
+    "lat": "-7.38917724",
+    "lng": "109.96368170"
+  },
+  {
+    "id": "jt_wnb_56",
+    "name": "POS POLISI KERTEK — CCTV 2",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/6edeb4fb-62ec-40f9-abd8-8cc130c22bb6.m3u8",
+    "lat": "-7.38917724",
+    "lng": "109.96368170"
+  },
+  {
+    "id": "jt_wnb_14",
+    "name": "POS POLISI TIENG — GP TIENG",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/c0354cd3-84a9-4de9-9308-9d820636e941.m3u8",
+    "lat": "-7.23331572",
+    "lng": "109.93799346"
+  },
+  {
+    "id": "jt_wnb_49",
+    "name": "RS PKU MUHAMADIYAH WONOSOBO — CCTV 1",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/ed9415dd-4662-4b89-b5c1-edf2a0bd7ffe.m3u8",
+    "lat": "-7.37329619",
+    "lng": "109.94033225"
+  },
+  {
+    "id": "jt_wnb_50",
+    "name": "RS PKU MUHAMADIYAH WONOSOBO — CCTV 2",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/aa674e87-4514-4f0d-826d-97d932954c2f.m3u8",
+    "lat": "-7.37329619",
+    "lng": "109.94033225"
+  },
+  {
+    "id": "jt_wnb_19",
+    "name": "S3 SIDOJOYO",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/8faf026a-5af2-4135-9d25-4a3409bf894c.m3u8",
+    "lat": "-7.36099550",
+    "lng": "109.91024137"
+  },
+  {
+    "id": "jt_wnb_46",
+    "name": "S4 BANKESBANGPOL — ARAH UTARA",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/d1ef66ce-7186-4439-a008-14975a55e32e.m3u8",
+    "lat": "-7.35631369",
+    "lng": "109.90526319"
+  },
+  {
+    "id": "jt_wnb_33",
+    "name": "S4 HONGGODERPO — HONGGODERPO",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/92b0d28a-a399-41a9-b23b-60e0c79750ca.m3u8",
+    "lat": "-7.36881593",
+    "lng": "109.90099955"
+  },
+  {
+    "id": "jt_wnb_13",
+    "name": "S4 JOGONEGORO",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/462e32ca-1d07-4db3-b41d-5024c6221fef.m3u8",
+    "lat": "-7.37245767",
+    "lng": "109.90035841"
+  },
+  {
+    "id": "jt_wnb_34",
+    "name": "S4 KAUMAN — KAUMAN",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/a0c05468-189c-40f2-befe-c81cf3d2f051.m3u8",
+    "lat": "-7.35523880",
+    "lng": "109.90376222"
+  },
+  {
+    "id": "jt_wnb_6",
+    "name": "S4 KODIM",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/bead7264-1d92-48af-9b1c-9eb9cffb60fb.m3u8",
+    "lat": "-7.35768891",
+    "lng": "109.90227861"
+  },
+  {
+    "id": "jt_wnb_60",
+    "name": "S4 PASAR IKAN — CCTV",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/57dce5a5-73ab-441c-bedd-f4759047ab44.m3u8",
+    "lat": "-7.39070936",
+    "lng": "109.96311843"
+  },
+  {
+    "id": "jt_wnb_25",
+    "name": "S4 PLAZA — ARAH BARAT",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/f2503efd-4c91-4237-8b0e-9acc761228ea.m3u8",
+    "lat": "-7.36407738",
+    "lng": "109.90205526"
+  },
+  {
+    "id": "jt_wnb_24",
+    "name": "S4 PLAZA — ARAH SELATAN",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/475943fa-35dd-47fa-9372-c2417e7d5ef0.m3u8",
+    "lat": "-7.36407738",
+    "lng": "109.90205526"
+  },
+  {
+    "id": "jt_wnb_27",
+    "name": "S4 PLAZA — ARAH TIMUR",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/f1b564c9-6d43-4395-8e9b-94a7d1f3d233.m3u8",
+    "lat": "-7.36407738",
+    "lng": "109.90205526"
+  },
+  {
+    "id": "jt_wnb_26",
+    "name": "S4 PLAZA — ARAH UTARA",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/9d1fe5ab-a46f-4d88-a664-245c94f04398.m3u8",
+    "lat": "-7.36407738",
+    "lng": "109.90205526"
+  },
+  {
+    "id": "jt_wnb_18",
+    "name": "S4 SAMSAT — ARAH UTARA",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/e4e3c81b-030f-4ba4-965d-6df7b308fce8.m3u8",
+    "lat": "-7.35983569",
+    "lng": "109.90380406"
+  },
+  {
+    "id": "jt_wnb_31",
+    "name": "S4 SAWANGAN — ARAH BARAT",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/8956c36e-a4fe-49c6-a175-2003ead6167a.m3u8",
+    "lat": "-7.42348906",
+    "lng": "109.84004796"
+  },
+  {
+    "id": "jt_wnb_59",
+    "name": "S4 SAWANGAN — ARAH TIMUR",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/d19948f2-2b6c-42aa-89e3-f68ecd05f8f6.m3u8",
+    "lat": "-7.42348906",
+    "lng": "109.84004796"
+  },
+  {
+    "id": "jt_wnb_51",
+    "name": "S4 SETDA — ARAH BARAT",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/8b54c634-8c95-475d-917a-6e3662a6b734.m3u8",
+    "lat": "-7.35852691",
+    "lng": "109.90430832"
+  },
+  {
+    "id": "jt_wnb_48",
+    "name": "S4 SETDA — ARAH SELATAN",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/3cc3fd74-60a5-4e9d-917c-84cececfe18b.m3u8",
+    "lat": "-7.35852691",
+    "lng": "109.90430832"
+  },
+  {
+    "id": "jt_wnb_52",
+    "name": "S4 SETDA — ARAH UTARA",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/73ad9338-3558-44db-82a0-7c5737c37211.m3u8",
+    "lat": "-7.35852691",
+    "lng": "109.90430832"
+  },
+  {
+    "id": "jt_wnb_23",
+    "name": "S4 SMP 1 WONOSOBO — ARAH SELATAN",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/e825de7b-523e-4b03-a711-e2b38a95d83f.m3u8",
+    "lat": "-7.35885677",
+    "lng": "109.90167975"
+  },
+  {
+    "id": "jt_wnb_22",
+    "name": "S4 SMP 1 WONOSOBO — ARAH TIMUR",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/4fcf2216-3422-46f7-b98f-a44c87bb6631.m3u8",
+    "lat": "-7.35885677",
+    "lng": "109.90167975"
+  },
+  {
+    "id": "jt_wnb_21",
+    "name": "S4 SMP 1 WONOSOBO — ARAH UTARA",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/de86b0fe-0bf9-4dab-98b4-59e5d3e3b676.m3u8",
+    "lat": "-7.35885677",
+    "lng": "109.90167975"
+  },
+  {
+    "id": "jt_wnb_58",
+    "name": "S4 SRUNI — ARAH UTARA",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/706aca3c-7815-4156-b748-c3a5a87eda84.m3u8",
+    "lat": "-7.36758336",
+    "lng": "109.90358949"
+  },
+  {
+    "id": "jt_wnb_16",
+    "name": "S4 TITIK 0 KM — TITIK 0 KM (ARAH TIMUR)",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/f525acfe-7562-413d-b79c-3ec1d684970a.m3u8",
+    "lat": "-7.36156629",
+    "lng": "109.90472782"
+  },
+  {
+    "id": "jt_wnb_54",
+    "name": "TIRTA AJI WONOSOBO — CCTV 1",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/a0b7fb9e-7b70-4137-83dc-69d9607d33ae.m3u8",
+    "lat": "-7.35561291",
+    "lng": "109.90437269"
+  },
+  {
+    "id": "jt_wnb_40",
+    "name": "TITIK 0 DIENG — CCTV BALAI DESA DIENG 1",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/96a0d373-1a38-41cb-bf44-5e0fdfea1dca.m3u8",
+    "lat": "-7.20427426",
+    "lng": "109.91126060"
+  },
+  {
+    "id": "jt_wnb_41",
+    "name": "TITIK 0 DIENG — CCTV BALAI DESA DIENG 2",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/676ee44a-e78f-4293-a83a-01039b724130.m3u8",
+    "lat": "-7.20427426",
+    "lng": "109.91126060"
+  },
+  {
+    "id": "jt_wnb_43",
+    "name": "TPR GARUNG — CCTV 1",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/bfa1e42d-8eea-47ff-a5d3-02755be16dcd.m3u8",
+    "lat": "-7.29046523",
+    "lng": "109.92635608"
+  },
+  {
+    "id": "jt_wnb_45",
+    "name": "TPR GARUNG — CCTV 2",
+    "kabupaten": "Wonosobo",
+    "url": "https://mata.wonosobokab.go.id/memfs/e65e588f-2b7d-4c7f-bde9-33d35c42b098.m3u8",
+    "lat": "-7.29046523",
+    "lng": "109.92635608"
+  }
+]
