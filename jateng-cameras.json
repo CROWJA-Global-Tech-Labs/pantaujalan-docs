@@ -64,6 +64,198 @@
     "lng": ""
   },
   {
+    "id": "jt_pat_8eff05af",
+    "name": "Dishub Alun Alun",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/8eff05af-b414-41ef-b9fb-45102439095d.m3u8",
+    "lat": "-6.753666",
+    "lng": "111.040424"
+  },
+  {
+    "id": "jt_pat_b7b5a673",
+    "name": "Dishub Alun-alun Kabupaten",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/b7b5a673-ec48-4dff-b842-918f639d0b4a.m3u8",
+    "lat": "-6.752780",
+    "lng": "111.040246"
+  },
+  {
+    "id": "jt_pat_9d17fb99",
+    "name": "Dishub Simpang Widorokandang",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/9d17fb99-d964-445f-8861-09ed7c56626a.m3u8",
+    "lat": "-6.741319022150659",
+    "lng": "111.07713519761089"
+  },
+  {
+    "id": "jt_pat_6f10803d",
+    "name": "Dishub Sukokulon",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/6f10803d-871d-4da2-91d8-90c92c498a1e.m3u8",
+    "lat": "-6.779048",
+    "lng": "110.992388"
+  },
+  {
+    "id": "jt_pat_22ab6501",
+    "name": "Dishub Terminal 1 Pati",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/22ab6501-63f2-43d6-af1b-ce6c1ed7cef0.m3u8",
+    "lat": "-6.757259",
+    "lng": "111.047561"
+  },
+  {
+    "id": "jt_pat_dfd316df",
+    "name": "Dishub Terminal 2 Pati",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/dfd316df-7293-40d8-b523-0b2b7ddb79df.m3u8",
+    "lat": "-6.757201",
+    "lng": "111.047221"
+  },
+  {
+    "id": "jt_pat_e74e945a",
+    "name": "Dishub Terminal 3 Pati",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/e74e945a-e872-4f35-9ebd-b25d78db0a8c.m3u8",
+    "lat": "-6.757465",
+    "lng": "111.047447"
+  },
+  {
+    "id": "jt_pat_598ad944",
+    "name": "Diskominfo Parkiran Depan",
+    "kabupaten": "Pati",
+    "url": "https://streaming.patikab.go.id/memfs/598ad944-6057-4c75-8d39-4b2aaf5bf3d6.m3u8",
+    "lat": "-6.750327",
+    "lng": "111.038132"
+  },
+  {
+    "id": "jt_pkn_1",
+    "name": "CCTV Bojong – Kajen",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/bojong-kajen/index.m3u8",
+    "lat": "-6.95500635",
+    "lng": "109.60766179"
+  },
+  {
+    "id": "jt_pkn_2",
+    "name": "CCTV Bojong – Surobayan",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/bojong-surobayan/index.m3u8",
+    "lat": "-6.95488300",
+    "lng": "109.60771900"
+  },
+  {
+    "id": "jt_pkn_3",
+    "name": "CCTV Bojong – Wiradesa",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/bojong-wiradesa/index.m3u8",
+    "lat": "-6.95481929",
+    "lng": "109.60772181"
+  },
+  {
+    "id": "jt_pkn_4",
+    "name": "CCTV Sedayu – Bojong",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/sedayu-bojong/index.m3u8",
+    "lat": "-6.97724070",
+    "lng": "109.63424950"
+  },
+  {
+    "id": "jt_pkn_5",
+    "name": "CCTV Sedayu – Kajen",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/sedayu-kajen/index.m3u8",
+    "lat": "-6.97731130",
+    "lng": "109.63439290"
+  },
+  {
+    "id": "jt_pkn_6",
+    "name": "CCTV Sedayu – Kedungwuni",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/sedayu-kedungwuni/index.m3u8",
+    "lat": "-6.97733700",
+    "lng": "109.63429900"
+  },
+  {
+    "id": "jt_pkn_7",
+    "name": "CCTV Titik Nol Kajen – Barat",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/titiknolkajen-barat/index.m3u8",
+    "lat": "-7.02710000",
+    "lng": "109.58090000"
+  },
+  {
+    "id": "jt_pkn_8",
+    "name": "CCTV Titik Nol Kajen – Selatan",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/titiknolkajen-selatan/index.m3u8",
+    "lat": "-7.02706400",
+    "lng": "109.58102400"
+  },
+  {
+    "id": "jt_pkn_9",
+    "name": "CCTV Titik Nol Kajen – Utara",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/titiknolkajen-utara/index.m3u8",
+    "lat": "-7.02702600",
+    "lng": "109.58125500"
+  },
+  {
+    "id": "jt_pkn_14",
+    "name": "CCTV Tuguduren Karanganyar 1",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/tuguduren-karanganyar-1/index.m3u8",
+    "lat": "-7.03180000",
+    "lng": "109.62516400"
+  },
+  {
+    "id": "jt_pkn_15",
+    "name": "CCTV Tuguduren Karanganyar 2",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/tuguduren-karanganyar-2/index.m3u8",
+    "lat": "-7.03182500",
+    "lng": "109.62523400"
+  },
+  {
+    "id": "jt_pkn_16",
+    "name": "CCTV Tuguduren Karanganyar 3",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/tuguduren-karanganyar-3/index.m3u8",
+    "lat": "-7.03179800",
+    "lng": "109.62519500"
+  },
+  {
+    "id": "jt_pkn_10",
+    "name": "CCTV Wiradesa – Barat",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/wiradesa-barat/index.m3u8",
+    "lat": "-6.89139510",
+    "lng": "109.61720051"
+  },
+  {
+    "id": "jt_pkn_11",
+    "name": "CCTV Wiradesa – Selatan",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/wiradesa-selatan/index.m3u8",
+    "lat": "-6.89159414",
+    "lng": "109.61740302"
+  },
+  {
+    "id": "jt_pkn_12",
+    "name": "CCTV Wiradesa – Timur",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/wiradesa-timur/index.m3u8",
+    "lat": "-6.89149961",
+    "lng": "109.61760620"
+  },
+  {
+    "id": "jt_pkn_13",
+    "name": "CCTV Wiradesa – Utara",
+    "kabupaten": "Pekalongan",
+    "url": "https://cctv.pekalongankab.go.id/hls/wiradesa-utara/index.m3u8",
+    "lat": "-6.89145102",
+    "lng": "109.61742045"
+  },
+  {
     "id": "jt_pml_alunalun",
     "name": "Alunalun",
     "kabupaten": "Pemalang",
