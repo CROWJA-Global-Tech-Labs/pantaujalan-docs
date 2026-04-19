@@ -1,0 +1,128 @@
+[
+  {
+    "id": "id_kdr_a_yani_utara",
+    "name": "A Yani Utara",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/a_yani_utara/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_alun_alun",
+    "name": "Alun Alun",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/alun_alun/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_bandar_ngalim",
+    "name": "Bandar Ngalim",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/bandar_ngalim/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_baruna",
+    "name": "Baruna",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/baruna/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_dandangan",
+    "name": "Dandangan",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/dandangan/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_iskandar_muda",
+    "name": "Iskandar Muda",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/iskandar_muda/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_jetis",
+    "name": "Jetis",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/jetis/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_mrican",
+    "name": "Mrican",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/mrican/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_muning",
+    "name": "Muning",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/muning/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_nabatiasa",
+    "name": "Nabatiasa",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/nabatiasa/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_semampir",
+    "name": "Semampir",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/semampir/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_tamanan",
+    "name": "Tamanan",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/tamanan/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_tosaren",
+    "name": "Tosaren",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/tosaren/index.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_kdr_water_torn",
+    "name": "Water Torn",
+    "kabupaten": "Kediri Kota",
+    "provinsi": "Jawa Timur",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/water_torn/index.m3u8",
+    "lat": "",
+    "lng": ""
+  }
+]
