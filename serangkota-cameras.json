@@ -1,0 +1,233 @@
+[
+  {
+    "id": "id_srk_alunalun2",
+    "name": "Alun-alun 2",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=alunalun2",
+    "lat": "-6.116837643305",
+    "lng": "106.15269988775",
+    "subtitle": "CCTV Alun-alun Kota Serang 2"
+  },
+  {
+    "id": "id_srk_alunalun3",
+    "name": "Alun-alun 3",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=alunalun3",
+    "lat": "-6.117168343554",
+    "lng": "106.15212053060",
+    "subtitle": "CCTV Alun-alun kota serang ke 3 hadap pendopo lampu merah"
+  },
+  {
+    "id": "id_srk_alunalun4",
+    "name": "Alun-alun 4",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=alunalun4",
+    "lat": "-6.116538946129",
+    "lng": "106.15237802267",
+    "subtitle": "CCTV 4 Alun-alun kota serang - Punya Pemkot Serang"
+  },
+  {
+    "id": "id_srk_cctvvideotronalun2",
+    "name": "Alun-alun 5 Videotrone",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=cctvvideotronalun2",
+    "lat": "-6.116648488587",
+    "lng": "106.15270024840",
+    "subtitle": "Cctv dekat videotron Alun-alun"
+  },
+  {
+    "id": "id_srk_alun2pospolisiramayana",
+    "name": "Alun-alun kota serang pos polisi ramayana",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=alun2pospolisiramayana",
+    "lat": "-6.117072333826",
+    "lng": "106.15383714437",
+    "subtitle": "CCTV Alun-alun kota serang dekat pos polisi ramayana"
+  },
+  {
+    "id": "id_srk_ciceri1",
+    "name": "Ciceri 1",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=ciceri1",
+    "lat": "-6.120359729315",
+    "lng": "106.17210296598",
+    "subtitle": "CCTV Ciceri Kominfo Kota Serang"
+  },
+  {
+    "id": "id_srk_ciceri2",
+    "name": "Ciceri 2",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=ciceri2",
+    "lat": "-6.120325900326",
+    "lng": "106.17198189043",
+    "subtitle": "Ciceri Lampu Merah ke 2 Kota Serang"
+  },
+  {
+    "id": "id_srk_sayabulu",
+    "name": "Ciracas Sayabulu",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=sayabulu",
+    "lat": "-6.127670",
+    "lng": "106.151467",
+    "subtitle": "CCTV Ciracas Sayabulu Kota Serang"
+  },
+  {
+    "id": "id_srk_sepang",
+    "name": "Ciracas Sepang",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=sepang",
+    "lat": "-6.127507",
+    "lng": "106.144213",
+    "subtitle": "CCTV Ciracas Sepang Kota Serang"
+  },
+  {
+    "id": "id_srk_kaligandu",
+    "name": "Kaligandu",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=kaligandu",
+    "lat": "-6.107663296802",
+    "lng": "106.17510706186",
+    "subtitle": "Perempatan Lampu merah Kaligandu - CCTV Kaligandu Kota Serang"
+  },
+  {
+    "id": "id_srk_kebonjahekotser",
+    "name": "Kebon Jahe Lampu Merah",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=kebonjahekotser",
+    "lat": "-6.125073085387",
+    "lng": "106.15774780511",
+    "subtitle": "CCTV Kebon Jahe Pemkot Serang"
+  },
+  {
+    "id": "id_srk_pandean",
+    "name": "Kepandean Lampu Merah",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=pandean",
+    "lat": "-6.110255599024",
+    "lng": "106.14303857088",
+    "subtitle": "CCTV Kepandean Kota Serang"
+  },
+  {
+    "id": "id_srk_lampumerahbrimod",
+    "name": "Lampu Merah Brimob",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=lampumerahbrimod",
+    "lat": "-6.115557511378",
+    "lng": "106.14148288965",
+    "subtitle": "Lokasi Lampu Merah Brimob Kota Serang"
+  },
+  {
+    "id": "id_srk_magersari",
+    "name": "Magersari",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=magersari",
+    "lat": "-6.112666535502",
+    "lng": "106.15205615758",
+    "subtitle": "CCTV Magersari Kota Serang"
+  },
+  {
+    "id": "id_srk_parung",
+    "name": "Parung Pertigaan",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=parung",
+    "lat": "-6.120197975029",
+    "lng": "106.20165020227",
+    "subtitle": "CCTV Parung Pertigaan Pemkot Serang"
+  },
+  {
+    "id": "id_srk_pocis",
+    "name": "Pocis",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=pocis",
+    "lat": "-6.113279935748",
+    "lng": "106.15384787321",
+    "subtitle": "CCTV Pocis Kota Serang"
+  },
+  {
+    "id": "id_srk_sumurborlontar",
+    "name": "Sumur Bor Lontar",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=sumurborlontar",
+    "lat": "-6.111669091860",
+    "lng": "106.14740520715",
+    "subtitle": "CCTV Sumurbor Lontar Kota Serang"
+  },
+  {
+    "id": "id_srk_tamancantelan",
+    "name": "Taman Cantelan",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=tamancantelan",
+    "lat": "-6.125633133508",
+    "lng": "106.16442650556",
+    "subtitle": "CCTV Tamancantelan Warjok Kota Serang"
+  },
+  {
+    "id": "id_srk_tamansari",
+    "name": "Taman Sari",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=tamansari",
+    "lat": "-6.114016598511",
+    "lng": "106.15798383951",
+    "subtitle": "CCTV TamanSari Kota Serang"
+  },
+  {
+    "id": "id_srk_terminalbantenlama",
+    "name": "Terminal Banten Lama",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=terminalbantenlama",
+    "lat": "-6.040595714651",
+    "lng": "106.15721136331",
+    "subtitle": "Terminal Banten Lama Kota Serang"
+  },
+  {
+    "id": "id_srk_serangtimur",
+    "name": "Tol Serang Timur",
+    "kabupaten": "Kota Serang",
+    "provinsi": "Banten",
+    "type": "WEB",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=serangtimur",
+    "lat": "-6.117398964998",
+    "lng": "106.18182335667",
+    "subtitle": "CCTV Tol Serang Timur Punya Pemkot Serang"
+  }
+]
