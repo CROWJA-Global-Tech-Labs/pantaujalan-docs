@@ -1,0 +1,322 @@
+[
+  {
+    "id": "id_byl_114",
+    "name": "Ampel",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/to5kmbDt2p/s.m3u8",
+    "lat": "-7.457668171187793",
+    "lng": "110.54794794337796",
+    "_kecamatan": "AMPEL"
+  },
+  {
+    "id": "id_byl_116",
+    "name": "Depan Rumdin",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/V4gYB6cQjt/s.m3u8",
+    "lat": "-7.531628361372895",
+    "lng": "110.5970651212952",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_45",
+    "name": "Gambiran Barat",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/OWyVcuDcSu/s.m3u8",
+    "lat": "-7.518934869092354",
+    "lng": "110.59646198025254",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_100",
+    "name": "Karanggede",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/yoIudyhA3G/s.m3u8",
+    "lat": "-7.360816539748547",
+    "lng": "110.63985729564043",
+    "_kecamatan": "KARANGGEDE"
+  },
+  {
+    "id": "id_byl_97",
+    "name": "Klego Barat",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/voLTLTRGyu/s.m3u8",
+    "lat": "-7.3556273093631",
+    "lng": "110.69145393353449",
+    "_kecamatan": "KLEGO"
+  },
+  {
+    "id": "id_byl_96",
+    "name": "Klego Timur",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/AcBzvk0PZf/s.m3u8",
+    "lat": "-7.355533406561981",
+    "lng": "110.69171249291682",
+    "_kecamatan": "KLEGO"
+  },
+  {
+    "id": "id_byl_18",
+    "name": "Museum Hamong Wardoyo",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/aL2D6CZIsP/s.m3u8",
+    "lat": "-7.53842241318527",
+    "lng": "110.61662400427659",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_85",
+    "name": "Pandan Alas Selatan",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/eZFlS3yZuW/s.m3u8",
+    "lat": "-7.536457683292684",
+    "lng": "110.60326633259312",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_104",
+    "name": "Pandan Alas Utara",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/mizT2CuShk/s.m3u8",
+    "lat": "-7.536270405651098",
+    "lng": "110.60334321634453",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_17",
+    "name": "Patung Sudirman Timur",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/KLa8MRC6ku/s.m3u8",
+    "lat": "-7.541296811799051",
+    "lng": "110.60854772752499",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_80",
+    "name": "Patung Sukarno Arah barat",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/i0VckdNWEV/s.m3u8",
+    "lat": "-7.538663837235457",
+    "lng": "110.61385612821",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_20",
+    "name": "Pertigaan Ngangkruk PTZ",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/JzaYIALZjG/s.m3u8",
+    "lat": "-7.534880574774166",
+    "lng": "110.68135384237421",
+    "_kecamatan": "BANYUDONO"
+  },
+  {
+    "id": "id_byl_110",
+    "name": "Pojok PLN Barat",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/SAbdKxcCxe/s.m3u8",
+    "lat": "-7.531550716528067",
+    "lng": "110.59405928228536",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_74",
+    "name": "Pojok Satpol PP",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/1NSEm9EQAk/s.m3u8",
+    "lat": "-7.548624942164701",
+    "lng": "110.61072696205326",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_107",
+    "name": "SIMPANG SELO",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/NVIqwbqG4G/s.m3u8",
+    "lat": "-7.501449009675548",
+    "lng": "110.45947667156607",
+    "_kecamatan": "SELO"
+  },
+  {
+    "id": "id_byl_105",
+    "name": "SImpang Simo",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/DbtJa8J7rZ/s.m3u8",
+    "lat": "-7.439028630371555",
+    "lng": "110.67810836651215",
+    "_kecamatan": "SIMO"
+  },
+  {
+    "id": "id_byl_78",
+    "name": "SPBU Kemiri Arah Barat",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/0VkyUHTR2O/s.m3u8",
+    "lat": "-7.5477786450555655",
+    "lng": "110.60940869773107",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_95",
+    "name": "Simpang Andong",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/hUVmmBzPfV/s.m3u8",
+    "lat": "-7.3755459609506335",
+    "lng": "110.7681101565756",
+    "_kecamatan": "ANDONG"
+  },
+  {
+    "id": "id_byl_70",
+    "name": "Simpang Driyan",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/zwJg89acRj/s.m3u8",
+    "lat": "-7.5407518623141545",
+    "lng": "110.60592910228141",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_64",
+    "name": "Simpang Lodalang",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/EhMTu25S1B/s.m3u8",
+    "lat": "-7.540256355024781",
+    "lng": "110.60345899650662",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_66",
+    "name": "Simpang RSPA",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/GGAPsHWDcz/s.m3u8",
+    "lat": "-7.535414260324632",
+    "lng": "110.59017469601878",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_51",
+    "name": "Simpang solidaritas Selatan",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/TcWdaZZBof/s.m3u8",
+    "lat": "-7.532550096914716",
+    "lng": "110.61609453203745",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_62",
+    "name": "Sonolayu",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/QxpGBV42ST/s.m3u8",
+    "lat": "-7.544455651645945",
+    "lng": "110.60182976659668",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_76",
+    "name": "Terminal Lama Arah Timur",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/jX8ESfrRKV/s.m3u8",
+    "lat": "-7.517226539755219",
+    "lng": "110.59340362466729",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_16",
+    "name": "Terminal Lama PTZ",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/KVLvaPeCHI/s.m3u8",
+    "lat": "-7.517330202555984",
+    "lng": "110.59337709978838",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_39",
+    "name": "Terminal Lama Selatan",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/XBBYJYNL91/s.m3u8",
+    "lat": "-7.517160311947933",
+    "lng": "110.5930446273339",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_99",
+    "name": "Terminal Penggung Barat",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/2Q7DUNhfEW/s.m3u8",
+    "lat": "-7.506157724379419",
+    "lng": "110.57862659727216",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_98",
+    "name": "Terminal Penggung Timur",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/CyvPcJkztn/s.m3u8",
+    "lat": "-7.505891004011166",
+    "lng": "110.57857973354422",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_27",
+    "name": "Tiga Menara",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/aMFJCACtr2/s.m3u8",
+    "lat": "-7.516274811640892",
+    "lng": "110.5992459711984",
+    "_kecamatan": "BOYOLALI"
+  },
+  {
+    "id": "id_byl_55",
+    "name": "Tugu Jagung",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/0Tb3lLxRdp/s.m3u8",
+    "lat": "-7.542445502298818",
+    "lng": "110.61321482084107",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_71",
+    "name": "Tugu Jagung Arah Selatan",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/g8XQZJ2B7F/s.m3u8",
+    "lat": "-7.54232233881903",
+    "lng": "110.6132569908608",
+    "_kecamatan": "MOJOSONGO"
+  },
+  {
+    "id": "id_byl_57",
+    "name": "cctv Perempatan Smp 2",
+    "kabupaten": "Boyolali",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/9F4va6YCbW/s.m3u8",
+    "lat": "-7.538118700516014",
+    "lng": "110.60758650194369",
+    "_kecamatan": "BOYOLALI"
+  }
+]
