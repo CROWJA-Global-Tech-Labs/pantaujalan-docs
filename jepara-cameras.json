@@ -1,0 +1,272 @@
+[
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Alunalun2",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/alunalun2logo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Alunalun2Baru",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/alunalun2barulogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Depandisparbud",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/depandisparbudlogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Depaninspektorat",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/depaninspektoratlogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Depankfc",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/depankfclogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Depanmpp",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/depanmpplogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Depansdmulyoharjo",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/depansdmulyoharjologo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Disperindag",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/disperindaglogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #01",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/017698e9-40cd-4059-a735-02778214eccd.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #02",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/06bc6a3f-bdab-4217-8ccf-9e8d021daea6.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #04",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/23f52bdd-a81a-48e3-98b6-3a076770c671.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #05",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/25a24d06-fea1-4097-b8c2-fbd958d6584e.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #07",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/32139ce2-ad97-4c89-a516-3ba3f29ffcb2.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #08",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/330115dd-b5f8-46a9-bcbf-c944365fe570.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #09",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/8027a19a-cf82-4333-bc45-c35fb039c160.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #10",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/9fe06a2f-de93-4c05-95f0-cb02379acbe9.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #12",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/e59cf968-5418-42a1-a878-cdec56aa6881.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___stream_cctv_jepa",
+    "name": "Jepara Kec. #13",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://stream-cctv.jepara.go.id:8083/memfs/fcc81484-141a-45e4-91e3-55e91591310e.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Masjidagung",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/masjidagunglogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Pertigaanpekeng",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/pertigaanpekenglogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Rbra1",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra1logo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Rbra2",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra2logo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Rbra3",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra3logo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Rbra4",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra4logo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Rbra5",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra5logo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Scjkaliwiso",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/scjkaliwisologo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Scjkaliwiso2",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/scjkaliwiso2logo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Simpangdprd",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/simpangdprdlogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Simpangtamankerang",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/simpangtamankeranglogo.m3u8",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "id": "id_jpr_https___cctv_jepara_life",
+    "name": "Tugupkk",
+    "kabupaten": "Jepara",
+    "provinsi": "Jawa Tengah",
+    "url": "https://cctv-jepara.lifemedia.id/live/tugupkklogo.m3u8",
+    "lat": "",
+    "lng": ""
+  }
+]
